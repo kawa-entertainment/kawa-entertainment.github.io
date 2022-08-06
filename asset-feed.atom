@@ -2,46 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment Asset Feed</title>
-    <updated>2022-08-06T22:45:33.594Z</updated>
+    <updated>2022-08-06T23:29:57.095Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/asset-feed.atom"/>
     <subtitle>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</subtitle>
     <entry>
-        <title type="html"><![CDATA[VTube Studio]]></title>
-        <id>https://kawaentertainment.com/assets/v-tube-studio/</id>
-        <link href="https://kawaentertainment.com/assets/v-tube-studio/"/>
+        <title type="html"><![CDATA[Klock]]></title>
+        <id>https://kawaentertainment.com/assets/klock/</id>
+        <link href="https://kawaentertainment.com/assets/klock/"/>
         <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
+        <content type="html"><![CDATA[
+So you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.
 
-#### Usage Example
+`button:/klock-editor:Open Klock Editor`
+`button:https://discord.gg/PVF64McJmU:Join support discord`
 
-https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
+#### Here's how to set up your very own Klock in OBS!
 
-_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mascot Assets]]></title>
-        <id>https://kawaentertainment.com/assets/mascot-assets/</id>
-        <link href="https://kawaentertainment.com/assets/mascot-assets/"/>
-        <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
+- Open OBS
+- Add a new browser source
+- Make sure local file is checked
+- Hit browse and locate the klock.html file you downloaded
+- Configure the width / height / etc as you please
+- Hit okay
+- ???
+- Profit
 
-We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
+#### Example users
 
-<video class="small" width="640" controls>
-    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://twitter.com/kawa_entertain/status/1529146483634802692
 
-Example Usage by Kota Kotonya
+https://twitter.com/MofutariMegumi/status/1508493647402389506
 
-![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
+https://twitter.com/Nami_Miyahara/status/1508031189344522243
 
-`button:/assets/mochi-assets.zip:Download Mochi Assets`
-`button:/assets/dango-assets.zip:Download Dango Assets`
-
-_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content>
+_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parrot Peachy]]></title>
@@ -72,6 +69,37 @@ https://twitter.com/catlop0202/status/1536616541952692225
 - Claim to be the author  
   
 _If there's any problem with the authorization, please contact me._]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schedule Studio]]></title>
+        <id>https://kawaentertainment.com/assets/schedule-studio/</id>
+        <link href="https://kawaentertainment.com/assets/schedule-studio/"/>
+        <updated>2022-08-06T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[
+A browser-based schedule creation tool with completely custom color combinations built in no Photoshop required! Creating a schedule can become a chore for content creators. Schedule Studio aims to streamline that process, making it easy for anyone to create a schedule when on the go.
+
+`button:/schedule-editor:Open Schedule Studio`
+`button:https://discord.gg/PVF64McJmU:Join support discord`
+
+#### Here's how to use our schedule creator!
+
+- Open Schedule Studio
+- Select your template and theme
+- Edit the colors
+- Edit the text (by clicking it)
+- Add your image (by clicking it)
+- Hit Save
+- ???
+- Profit
+
+#### Example Users
+
+https://twitter.com/funamusea/status/1533284269657042945?s=20&t=PkuMlhYZcaC1sbAoPhMdcg
+
+https://twitter.com/StarryYozzy/status/1523647418805686272?s=20&t=PkuMlhYZcaC1sbAoPhMdcg
+
+_Schedule Studio is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ViewLink: VR to Live2D]]></title>
@@ -141,35 +169,27 @@ Turn off lights on steering wheel: Left shift + 1
 _No redistributing! or reselling!_]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schedule Studio]]></title>
-        <id>https://kawaentertainment.com/assets/schedule-studio/</id>
-        <link href="https://kawaentertainment.com/assets/schedule-studio/"/>
+        <title type="html"><![CDATA[Mascot Assets]]></title>
+        <id>https://kawaentertainment.com/assets/mascot-assets/</id>
+        <link href="https://kawaentertainment.com/assets/mascot-assets/"/>
         <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[
-A browser-based schedule creation tool with completely custom color combinations built in no Photoshop required! Creating a schedule can become a chore for content creators. Schedule Studio aims to streamline that process, making it easy for anyone to create a schedule when on the go.
+        <content type="html"><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
 
-`button:/schedule-editor:Open Schedule Studio`
-`button:https://discord.gg/PVF64McJmU:Join support discord`
+We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
 
-#### Here's how to use our schedule creator!
+<video class="small" width="640" controls>
+    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-- Open Schedule Studio
-- Select your template and theme
-- Edit the colors
-- Edit the text (by clicking it)
-- Add your image (by clicking it)
-- Hit Save
-- ???
-- Profit
+Example Usage by Kota Kotonya
 
-#### Example Users
+![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
 
-https://twitter.com/funamusea/status/1533284269657042945?s=20&t=PkuMlhYZcaC1sbAoPhMdcg
+`button:/assets/mochi-assets.zip:Download Mochi Assets`
+`button:/assets/dango-assets.zip:Download Dango Assets`
 
-https://twitter.com/StarryYozzy/status/1523647418805686272?s=20&t=PkuMlhYZcaC1sbAoPhMdcg
-
-_Schedule Studio is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
-]]></content>
+_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vTuber Kit]]></title>
@@ -225,52 +245,17 @@ Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
 Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Klock]]></title>
-        <id>https://kawaentertainment.com/assets/klock/</id>
-        <link href="https://kawaentertainment.com/assets/klock/"/>
+        <title type="html"><![CDATA[VTube Studio]]></title>
+        <id>https://kawaentertainment.com/assets/v-tube-studio/</id>
+        <link href="https://kawaentertainment.com/assets/v-tube-studio/"/>
         <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[
-So you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.
+        <content type="html"><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
 
-`button:/klock-editor:Open Klock Editor`
-`button:https://discord.gg/PVF64McJmU:Join support discord`
+#### Usage Example
 
-#### Here's how to set up your very own Klock in OBS!
+https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
 
-- Open OBS
-- Add a new browser source
-- Make sure local file is checked
-- Hit browse and locate the klock.html file you downloaded
-- Configure the width / height / etc as you please
-- Hit okay
-- ???
-- Profit
-
-#### Example users
-
-https://twitter.com/kawa_entertain/status/1529146483634802692
-
-https://twitter.com/MofutariMegumi/status/1508493647402389506
-
-https://twitter.com/Nami_Miyahara/status/1508031189344522243
-
-_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yukarinette ConnectorNeo]]></title>
-        <id>https://kawaentertainment.com/assets/yukarinette-connector-neo/</id>
-        <link href="https://kawaentertainment.com/assets/yukarinette-connector-neo/"/>
-        <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
-
-#### Instructions
-
-[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
-
-We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
-
-In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content>
+_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Concert Twitch Overlay]]></title>
@@ -293,5 +278,20 @@ An overlay that allows Twitch streamers to have an interactive audience that per
 Any questions can be directed at me via twitter or put in the comments below.
 
 https://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yukarinette ConnectorNeo]]></title>
+        <id>https://kawaentertainment.com/assets/yukarinette-connector-neo/</id>
+        <link href="https://kawaentertainment.com/assets/yukarinette-connector-neo/"/>
+        <updated>2022-08-06T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
+
+#### Instructions
+
+[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
+
+We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
+
+In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content>
     </entry>
 </feed>

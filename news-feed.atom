@@ -2,29 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
-    <updated>2022-08-06T22:45:33.616Z</updated>
+    <updated>2022-08-06T23:29:57.100Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/news-feed.atom"/>
     <subtitle>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</subtitle>
     <entry>
-        <title type="html"><![CDATA[Welcome to Vtuber NewsDrop]]></title>
-        <id>https://kawaentertainment.com/news/welcome-to-vtuber-news-drop/</id>
-        <link href="https://kawaentertainment.com/news/welcome-to-vtuber-news-drop/"/>
+        <title type="html"><![CDATA[Welcome to VTuber NewsDrop]]></title>
+        <id>https://kawaentertainment.com/news/welcome-to-v-tuber-news-drop/</id>
+        <link href="https://kawaentertainment.com/news/welcome-to-v-tuber-news-drop/"/>
         <updated>2022-08-06T23:30:00.000Z</updated>
-        <content type="html"><![CDATA[#### Drop 💧 get it?
+        <content type="html"><![CDATA[## Drop 💧 get it?
 
 The vision for **newsdrop** is to become a hub for VTuber News and Features with improved emphasis on local VTuber cultures in different regions of the world. We also showcase the latest in VTuber tech the community needs to know.
 
-While others focus on talents from major agencies, we want to when possible show the spotlight on other VTuber groups and what impact they have in their communities.
+While others focus on talents from major agencies, we also want to, when possible, show the spotlight on other VTuber groups and individials, and what impact they have in their communities.
 
 **Hope you all enjoy this industry first. We're excited to bring more awesome stories directly to you!**
 
-#### Meet Our Writers
+## Meet Our Writers
 
-* [@vg_pidge](https://twitter.com/vg_pidge)
-* [@JayAgonoy](https://twitter.com/JayAgonoy)
-* [@MontySeelana](https://twitter.com/MontySeelana)]]></content>
+[@vg_pidge](https://twitter.com/vg_pidge)
+
+[@JayAgonoy](https://twitter.com/JayAgonoy)
+
+[@MontySeelana](https://twitter.com/MontySeelana)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nijisanji Festival 2022 Confirms LazuLight and Hana Macchia's 3D Debut]]></title>
