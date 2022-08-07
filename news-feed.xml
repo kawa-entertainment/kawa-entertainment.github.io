@@ -4,7 +4,7 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Sat, 06 Aug 2022 23:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 00:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,7 +15,7 @@
             <pubDate>Sat, 06 Aug 2022 23:30:00 GMT</pubDate>
             <content:encoded><![CDATA[## Drop 💧 get it?
 
-The vision for **newsdrop** is to become a hub for VTuber News and Features with improved emphasis on local VTuber cultures in different regions of the world. We also showcase the latest in VTuber tech the community needs to know.
+The vision for **NewsDrop** is to become a hub for VTuber News and Features with improved emphasis on local VTuber cultures in different regions of the world. We also showcase the latest in VTuber tech the community needs to know.
 
 While others focus on talents from major agencies, we also want to, when possible, show the spotlight on other VTuber groups and individials, and what impact they have in their communities.
 
@@ -23,10 +23,8 @@ While others focus on talents from major agencies, we also want to, when possibl
 
 ## Meet Our Writers
 
-[@vg_pidge](https://twitter.com/vg_pidge)
-
-[@JayAgonoy](https://twitter.com/JayAgonoy)
-
+[@vg_pidge](https://twitter.com/vg_pidge)  
+[@JayAgonoy](https://twitter.com/JayAgonoy)  
 [@MontySeelana](https://twitter.com/MontySeelana)]]></content:encoded>
         </item>
         <item>
