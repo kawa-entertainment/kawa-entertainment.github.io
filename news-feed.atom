@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
-    <updated>2022-08-07T00:38:54.759Z</updated>
+    <updated>2022-08-07T01:09:43.746Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/news-feed.atom"/>
@@ -51,6 +51,8 @@ Other Nijisanji EN talents who will be present in 2D are Obsydia, Ethyria, Luxie
         <content type="html"><![CDATA[Hololive Meet is coming to this weekend's Crunchyroll Expo 2022! Hololive Production's international project brings 28 of its personalities to the annual event to be held at the San Jose McEnery Convention Center in California on the weekend of August 5 to 7.
 
 ![© 2016 COVER Corp. / Photo: Crunchyroll Expo](/src/assets/content/images/holojul2277.png "© 2016 COVER Corp. / Photo: Crunchyroll Expo")
+
+_Photo: Crunchyroll Expo / ©2016 COVER Corp._
 
 ## Hololive Meet CRX Roster
 
@@ -111,7 +113,7 @@ _Gathered from_ [_Crunchyroll Expo website_](https://www.crunchyrollexpo.com/pan
 
 ### Sunday, August 7
 
-* **hololive - Cosplay Gathering** (Cosplay Gathering Outdoor Location - Main Entrance and via online stream, 12:00pm)]]></content>
+* **hololive - Cosplay Gathering** (Cosplay Gathering Outdoor Location - Main Entrance, 12:00pm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obsydia Crossing VRChat World Open to Public Until August 8]]></title>
