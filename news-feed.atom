@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
-    <updated>2022-08-10T00:43:16.804Z</updated>
+    <updated>2022-08-10T01:55:09.414Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/news-feed.atom"/>
