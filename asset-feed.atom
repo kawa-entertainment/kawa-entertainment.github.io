@@ -2,11 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment Asset Feed</title>
-    <updated>2022-08-09T17:42:49.428Z</updated>
+    <updated>2022-08-10T00:33:12.992Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/asset-feed.atom"/>
     <subtitle>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[VTS Heartrate Plugin]]></title>
+        <id>https://kawaentertainment.com/assets/vts-heartrate-plugin/</id>
+        <link href="https://kawaentertainment.com/assets/vts-heartrate-plugin/"/>
+        <updated>2022-08-09T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[**Are you looking to do workout / horror streams? Why not connect your heartbeat to VTube Studio?**
+
+#### Info
+
+* Support for many heart rate monitors with pulsoid.net and ANT+!
+* Configurable model tinting that scales with pulse!
+* Automatic expression and hotkey triggering at desired heart rate thresholds!
+* Custom tracking parameters for pulse and breath!
+
+#### About
+
+This plugin is developed by Tom "Skeletom" Farro. If you need to contact him, the best way to do so is [via Twitter](https://twitter.com/FomTarro).
+
+If you're more of an email-oriented person, you can contact his support email: [tom@skeletom.net](mailto:tom@skeletom.net).
+
+#### Usage
+
+Getting up and running is relatively straightforward. The plugin will automatically connect to VTube Studio on launch. From there, do the following steps:
+
+* Input an estimated minimum and maximum heartrate.
+* Select a desired heartrate input method. You can connect over Bluetooth using your phone and [pulsoid.net](https://www.pulsoid.net/), or connect directly to your PC with an [ANT+](https://www.thisisant.com/consumer/ant-101/what-is-ant) USB dongle.
+* Add Art Mesh Tint modules and configure them to parts of your model!
+* Add Expression and Hotkey Trigger modules and configure them to activate model functions automatically!
+* Hook up Custom Tracking Parameters your model for things like breathing speed!
+
+For the complete guide on all input and output features, [the unabridged readme can be found here](https://github.com/FomTarro/vts-heartrate#readme) (also accessible from within the plugin under **Settings** -> **Open README**).
+
+#### Custom Parameters
+
+This plugin outputs four custom tracking parameters for use. They are as follows:
+
+* `VTS_Heartrate_Linear`: A value that scales from 0.0 to 1.0 as your heartrate moves across the expected range.
+* `VTS_Heartrate_Pulse`: A value that oscillates between 0.0 and 1.0 with a frequency exactly matching your heartrate.
+* `VTS_Heartrate_Breath`: A value that oscillates between 0.0 and 1.0 with a frequency slower than Pulse, suitable for controlling your model's ParamBreath output.
+* `VTS_Heartrate_BPM`: A value that represents the actual current heartrate in BPM.
+
+#### Install instructions
+
+This is a plugin for VTube Studio, so naturally it requires an installation of VTube Studio, which is available for free on Steam.
+
+Simply unzip the folder and run the bundled .exe file to launch the plugin, no installation required.
+
+The plugin will request network permission so as to be able to connect with VTube Studio, and optionally connect with pulsoid.net.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live2D Mouth and Chin Chart]]></title>
+        <id>https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/</id>
+        <link href="https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/"/>
+        <updated>2022-08-09T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[For those who struggle making mouths in Live2D here's a chart with info just for you!
+
+https://twitter.com/koziichu/status/1493370769748807681
+
+https://twitter.com/koziichu/status/1493370773943119877?s=20&t=i0iDa7lZTxVEBOmr9TxY6A
+
+https://twitter.com/koziichu/status/1493370806084145152?s=20&t=i0iDa7lZTxVEBOmr9TxY6A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Female Vtuber Model Body Base]]></title>
+        <id>https://kawaentertainment.com/assets/female-vtuber-model-body-base/</id>
+        <link href="https://kawaentertainment.com/assets/female-vtuber-model-body-base/"/>
+        <updated>2022-08-09T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[For those who struggle or want a fast way to do the human anatomy & body layer splitting part. This asset could help you get started. 
+
+#### PRODUCT INFO  
+
+* THIS PRODUCT IS NOT RIGGED!  
+* This product comes as (.PSD) file contained within a Zip file.  
+* YOU NEED PHOTOSHOP TO OPEN .PSD FILES.  
+* Canvas size in ZIP: 3140 x 7000  
+* Link (in notepad) to the HD Canvas/ Model size in my Google drive.  
+* Bikini and watermark not included  
+  
+#### PERSONAL USE LICENSE
+  
+**Every purchase for this file is for one single standalone license. If you want to use this file for commercial purposes please read the rules under the commercial license section.**
+  
+**CREDITING:** Please Credit @LavandereVT or the @AssetShop if you use the base in any way (as is, for tracing, reference, etc.)  
+  
+**SELLING:** Selling/ sharing/ redistribution is prohibited on a personal use license even if you edit/ trace/ reference the file.  
+  
+**RIGGERS:** The only exception for sharing the file is when giving your Vtuber model to a Live2D rigger solely for the purpose of having  
+your model rigged. Riggers must also abide by the rules (it is your job to inform them and keep evidence they agree to the rules).  
+  
+**CHANGES:** You can change/ add whatever you want, including but not limited too:  
+body shape/ colors/ layers/ facial features/ clothing/ cutting points/ etc.  
+  
+* You may use this body as a base for character concept designs (if only for personal use) but you may not sell it in adoptions/ etc. unless you bought a commercial license.*
+  
+* I cannot guarantee all the layers are split how you will want them to be, if you want more cuts in the model you will have to alter them yourself and have knowledge of how, I cannot teach you. This product is solely a basis for learning and providing aid for the vtuber design process.
+  
+* You may not sell your own body-base using this one as a reference/ guide.
+  
+#### COMMERCIAL LICENSE
+  
+**IF ANYTHING IS UNCLEAR OR YOU ARE NOT SURE ABOUT PLEASE SEND A DM**
+
+**LICENSE:** Each individual variant of a vtuber custom/ commission, artwork adoptable, etc. is considered 1 standalone license to use this file.  
+  
+* You may not sell/share this file in the same manner in which you bought it here on Etsy, nor do so on other platforms.  
+  
+* All future clients must abide by the same rules of owning this file. It is your sole responsibility to make them aware of said rules and keep evidence of their agreement in case of legal issues arise.  
+  
+* All rules from the personal use section also apply (excluding the fact you must share the file to the client who bought the custom work from you)  
+  
+*If you have issues please DM me. I'll always do my best to help! ♡*]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parrot Peachy]]></title>
         <id>https://kawaentertainment.com/assets/parrot-peachy/</id>
@@ -36,82 +148,6 @@ https://twitter.com/catlop0202/status/1536616541952692225
 - Claim to be the author  
   
 _If there's any problem with the authorization, please contact me._]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VTube Studio]]></title>
-        <id>https://kawaentertainment.com/assets/v-tube-studio/</id>
-        <link href="https://kawaentertainment.com/assets/v-tube-studio/"/>
-        <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
-
-#### Usage Example
-
-https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
-
-_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra Wiggly Cat Ears]]></title>
-        <id>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</id>
-        <link href="https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/"/>
-        <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[Want satisfying ear wiggles when you blink? Floofy physics every turn? Get yourself these VTube Studio color-customizable cat ears!💖
-
-https://twitter.com/k1ruse/status/1550556818715586561?s=20&t=4oleqjl6tCLj8Z6jbzsjHA
-
-##### You CAN change the colors in VTS:
-
-When you load a new item in, press "configure/finetune", and on the next page after hitting "save", you can edit colors to match your own model using the "multiply/screen" feature!
-
-##### File includes:
-
-- Cat Ear VTS item files (.moc3, .cdi3, .model3, .phsyics3, texture file, .vtube)
-- Terms and Conditions.txt (+ how to change the colors in VTS)
-
-##### Before purchasing:
-
-- I highly suggest testing VTube Studio's existing Live2D animal ear items to see if this will attach well to your model. Pinning items can be tricky to get right.
-- This asset acts as a "Live2D sticker" above or behind your model, this will not work as well above horns or similar head accessories!
-
-##### Terms & Conditions:
-
-- Do not redistribute or resell the file or its contents.
-- Do not rip the art and use it in any way not pertaining to this asset.
-- You may edit and customize the colors of the item in VTube Studio, as well as on the texture file. Please keep texture file edits to simple color changes/adding accessories (piercings, etc).
-- If you are using this asset often, please credit me on the about page of your streaming platform of choice. Along with a link to the product page!
-
----
-
-_With your purchase of my files, please respect the terms that come with it. Your integrity is extremely appreciated._
-
-Kiru [@k1ruse](https://ko-fi.com/k1ruse)
-
-Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
-
-Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mascot Assets]]></title>
-        <id>https://kawaentertainment.com/assets/mascot-assets/</id>
-        <link href="https://kawaentertainment.com/assets/mascot-assets/"/>
-        <updated>2022-08-06T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
-
-We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
-
-<video class="small" width="640" controls>
-    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-Example Usage by Kota Kotonya
-
-![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
-
-`button:/assets/mochi-assets.zip:Download Mochi Assets`
-`button:/assets/dango-assets.zip:Download Dango Assets`
-
-_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Schedule Studio]]></title>
@@ -178,6 +214,29 @@ _Klock is free to be used in any context (including commercial), but redistribut
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mascot Assets]]></title>
+        <id>https://kawaentertainment.com/assets/mascot-assets/</id>
+        <link href="https://kawaentertainment.com/assets/mascot-assets/"/>
+        <updated>2022-08-06T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
+
+We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
+
+<video class="small" width="640" controls>
+    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+Example Usage by Kota Kotonya
+
+![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
+
+`button:/assets/mochi-assets.zip:Download Mochi Assets`
+`button:/assets/dango-assets.zip:Download Dango Assets`
+
+_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ViewLink: VR to Live2D]]></title>
         <id>https://kawaentertainment.com/assets/view-link-vr-to-live2-d/</id>
         <link href="https://kawaentertainment.com/assets/view-link-vr-to-live2-d/"/>
@@ -224,6 +283,59 @@ https://twitter.com/Robpoke/status/1521468493857800197?s=20&t=PkuMlhYZcaC1sbAoPh
 _ViewLink is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
 
 _\*Vtube Studio must be purchased separately in order to use this application._]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VTube Studio]]></title>
+        <id>https://kawaentertainment.com/assets/v-tube-studio/</id>
+        <link href="https://kawaentertainment.com/assets/v-tube-studio/"/>
+        <updated>2022-08-06T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
+
+#### Usage Example
+
+https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
+
+_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra Wiggly Cat Ears]]></title>
+        <id>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</id>
+        <link href="https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/"/>
+        <updated>2022-08-06T05:00:00.000Z</updated>
+        <content type="html"><![CDATA[Want satisfying ear wiggles when you blink? Floofy physics every turn? Get yourself these VTube Studio color-customizable cat ears!💖
+
+https://twitter.com/k1ruse/status/1550556818715586561?s=20&t=4oleqjl6tCLj8Z6jbzsjHA
+
+##### You CAN change the colors in VTS:
+
+When you load a new item in, press "configure/finetune", and on the next page after hitting "save", you can edit colors to match your own model using the "multiply/screen" feature!
+
+##### File includes:
+
+- Cat Ear VTS item files (.moc3, .cdi3, .model3, .phsyics3, texture file, .vtube)
+- Terms and Conditions.txt (+ how to change the colors in VTS)
+
+##### Before purchasing:
+
+- I highly suggest testing VTube Studio's existing Live2D animal ear items to see if this will attach well to your model. Pinning items can be tricky to get right.
+- This asset acts as a "Live2D sticker" above or behind your model, this will not work as well above horns or similar head accessories!
+
+##### Terms & Conditions:
+
+- Do not redistribute or resell the file or its contents.
+- Do not rip the art and use it in any way not pertaining to this asset.
+- You may edit and customize the colors of the item in VTube Studio, as well as on the texture file. Please keep texture file edits to simple color changes/adding accessories (piercings, etc).
+- If you are using this asset often, please credit me on the about page of your streaming platform of choice. Along with a link to the product page!
+
+---
+
+_With your purchase of my files, please respect the terms that come with it. Your integrity is extremely appreciated._
+
+Kiru [@k1ruse](https://ko-fi.com/k1ruse)
+
+Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
+
+Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Steering Wheel and Hat Vtuber LIVE2D RIGGED assets]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kawaentertainment.com/</id>
     <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
-    <updated>2022-08-09T17:42:49.433Z</updated>
+    <updated>2022-08-10T00:33:12.997Z</updated>
     <generator>Gridsome Feed Plugin</generator>
     <link rel="alternate" href="https://kawaentertainment.com/"/>
     <link rel="self" href="https://kawaentertainment.com/news-feed.atom"/>
@@ -54,7 +54,7 @@ Aside from their appearance at Otakuthon, Millie and Enna also appeared at Crunc
 Banner Photo from [Nijisanji World](https://twitter.com/NIJISANJI_World/status/1546585118231388169) on Twitter]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PRISM Project Opens 2022 Auditions ]]></title>
+        <title type="html"><![CDATA[PRISM Project Opens 2022 Auditions]]></title>
         <id>https://kawaentertainment.com/news/prism-project-opens-2022-auditions/</id>
         <link href="https://kawaentertainment.com/news/prism-project-opens-2022-auditions/"/>
         <updated>2022-08-07T17:06:00.000Z</updated>
@@ -78,7 +78,7 @@ Sony Music Entertainment (Japan) manages PRISM Project alongside VERSEⁿ, VEE, 
         <id>https://kawaentertainment.com/news/project-kavvaii-s-aozora-kurumi-graduates/</id>
         <link href="https://kawaentertainment.com/news/project-kavvaii-s-aozora-kurumi-graduates/"/>
         <updated>2022-08-07T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[Project Kavvaii's pioneer VTuber Aozora Kurumi has graduated as she held her final stream Sunday, August 7. Kurumi reads letters from fans, sings songs and reflects on her VTubing career. 
+        <content type="html"><![CDATA[Project Kavvaii's pioneer VTuber Aozora Kurumi has graduated as she held her final stream Sunday, August 7. Kurumi reads letters from fans, sings songs and reflects on her VTubing career.
 
 `youtube:https://www.youtube.com/watch?v=XsVy5NV3bxo`
 
