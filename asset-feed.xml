@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -18,17 +18,6 @@
 https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Controller Asset]]></title>
-            <link>https://kawaentertainment.com/assets/controller-asset/</link>
-            <guid>https://kawaentertainment.com/assets/controller-asset/</guid>
-            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[If you want something simple to use as a video game controller this asset has you covered!
-
-_picnic members can message for different color edits I won’t be adding designs though sorry_
-
-https://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[VTubeStudio Plugin for StreamDeck]]></title>
             <link>https://kawaentertainment.com/assets/v-tube-studio-plugin-for-stream-deck/</link>
             <guid>https://kawaentertainment.com/assets/v-tube-studio-plugin-for-stream-deck/</guid>
@@ -38,6 +27,17 @@ https://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM
 `button:streamdeck://plugin/install/dev.cazzar.vtubestudio.movemodel:Open in Elgato App Store`
     
 https://twitter.com/Cazzar99/status/1442824488333111296?s=20&t=5hxF2RQn3x5lPgUqvVZ3TA]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Controller Asset]]></title>
+            <link>https://kawaentertainment.com/assets/controller-asset/</link>
+            <guid>https://kawaentertainment.com/assets/controller-asset/</guid>
+            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[If you want something simple to use as a video game controller this asset has you covered!
+
+_picnic members can message for different color edits I won’t be adding designs though sorry_
+
+https://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Twitch Item Flood]]></title>
@@ -175,19 +175,6 @@ Simply unzip the folder and run the bundled .exe file to launch the plugin, no i
 The plugin will request network permission so as to be able to connect with VTube Studio, and optionally connect with pulsoid.net.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Live2D Mouth and Chin Chart]]></title>
-            <link>https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/</link>
-            <guid>https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/</guid>
-            <pubDate>Tue, 09 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[For those who struggle making mouths in Live2D here's a chart with info just for you!
-
-https://twitter.com/koziichu/status/1493370769748807681
-
-https://twitter.com/koziichu/status/1493370773943119877?s=20&t=i0iDa7lZTxVEBOmr9TxY6A
-
-https://twitter.com/koziichu/status/1493370806084145152?s=20&t=i0iDa7lZTxVEBOmr9TxY6A]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Female Vtuber Model Body Base]]></title>
             <link>https://kawaentertainment.com/assets/female-vtuber-model-body-base/</link>
             <guid>https://kawaentertainment.com/assets/female-vtuber-model-body-base/</guid>
@@ -236,6 +223,19 @@ body shape/ colors/ layers/ facial features/ clothing/ cutting points/ etc.
 * All rules from the personal use section also apply (excluding the fact you must share the file to the client who bought the custom work from you)  
   
 *If you have issues please DM me. I'll always do my best to help! ♡*]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Live2D Mouth and Chin Chart]]></title>
+            <link>https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/</link>
+            <guid>https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/</guid>
+            <pubDate>Tue, 09 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[For those who struggle making mouths in Live2D here's a chart with info just for you!
+
+https://twitter.com/koziichu/status/1493370769748807681
+
+https://twitter.com/koziichu/status/1493370773943119877?s=20&t=i0iDa7lZTxVEBOmr9TxY6A
+
+https://twitter.com/koziichu/status/1493370806084145152?s=20&t=i0iDa7lZTxVEBOmr9TxY6A]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Parrot Peachy]]></title>
@@ -368,46 +368,6 @@ _Schedule Studio is free to be used in any context (including commercial), but r
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Ultra Wiggly Cat Ears]]></title>
-            <link>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</link>
-            <guid>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Want satisfying ear wiggles when you blink? Floofy physics every turn? Get yourself these VTube Studio color-customizable cat ears!💖
-
-https://twitter.com/k1ruse/status/1550556818715586561?s=20&t=4oleqjl6tCLj8Z6jbzsjHA
-
-##### You CAN change the colors in VTS:
-
-When you load a new item in, press "configure/finetune", and on the next page after hitting "save", you can edit colors to match your own model using the "multiply/screen" feature!
-
-##### File includes:
-
-- Cat Ear VTS item files (.moc3, .cdi3, .model3, .phsyics3, texture file, .vtube)
-- Terms and Conditions.txt (+ how to change the colors in VTS)
-
-##### Before purchasing:
-
-- I highly suggest testing VTube Studio's existing Live2D animal ear items to see if this will attach well to your model. Pinning items can be tricky to get right.
-- This asset acts as a "Live2D sticker" above or behind your model, this will not work as well above horns or similar head accessories!
-
-##### Terms & Conditions:
-
-- Do not redistribute or resell the file or its contents.
-- Do not rip the art and use it in any way not pertaining to this asset.
-- You may edit and customize the colors of the item in VTube Studio, as well as on the texture file. Please keep texture file edits to simple color changes/adding accessories (piercings, etc).
-- If you are using this asset often, please credit me on the about page of your streaming platform of choice. Along with a link to the product page!
-
----
-
-_With your purchase of my files, please respect the terms that come with it. Your integrity is extremely appreciated._
-
-Kiru [@k1ruse](https://ko-fi.com/k1ruse)
-
-Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
-
-Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[ViewLink: VR to Live2D]]></title>
             <link>https://kawaentertainment.com/assets/view-link-vr-to-live2-d/</link>
             <guid>https://kawaentertainment.com/assets/view-link-vr-to-live2-d/</guid>
@@ -456,19 +416,44 @@ _ViewLink is free to be used in any context (including commercial), but redistri
 _\*Vtube Studio must be purchased separately in order to use this application._]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Yukarinette ConnectorNeo]]></title>
-            <link>https://kawaentertainment.com/assets/yukarinette-connector-neo/</link>
-            <guid>https://kawaentertainment.com/assets/yukarinette-connector-neo/</guid>
+            <title><![CDATA[Ultra Wiggly Cat Ears]]></title>
+            <link>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</link>
+            <guid>https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/</guid>
             <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
+            <content:encoded><![CDATA[Want satisfying ear wiggles when you blink? Floofy physics every turn? Get yourself these VTube Studio color-customizable cat ears!💖
 
-#### Instructions
+https://twitter.com/k1ruse/status/1550556818715586561?s=20&t=4oleqjl6tCLj8Z6jbzsjHA
 
-[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
+##### You CAN change the colors in VTS:
 
-We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
+When you load a new item in, press "configure/finetune", and on the next page after hitting "save", you can edit colors to match your own model using the "multiply/screen" feature!
 
-In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content:encoded>
+##### File includes:
+
+- Cat Ear VTS item files (.moc3, .cdi3, .model3, .phsyics3, texture file, .vtube)
+- Terms and Conditions.txt (+ how to change the colors in VTS)
+
+##### Before purchasing:
+
+- I highly suggest testing VTube Studio's existing Live2D animal ear items to see if this will attach well to your model. Pinning items can be tricky to get right.
+- This asset acts as a "Live2D sticker" above or behind your model, this will not work as well above horns or similar head accessories!
+
+##### Terms & Conditions:
+
+- Do not redistribute or resell the file or its contents.
+- Do not rip the art and use it in any way not pertaining to this asset.
+- You may edit and customize the colors of the item in VTube Studio, as well as on the texture file. Please keep texture file edits to simple color changes/adding accessories (piercings, etc).
+- If you are using this asset often, please credit me on the about page of your streaming platform of choice. Along with a link to the product page!
+
+---
+
+_With your purchase of my files, please respect the terms that come with it. Your integrity is extremely appreciated._
+
+Kiru [@k1ruse](https://ko-fi.com/k1ruse)
+
+Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
+
+Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Steering Wheel and Hat Vtuber LIVE2D RIGGED assets]]></title>
@@ -488,6 +473,34 @@ Change letter on hat: Left shift + Letter
 Turn off lights on steering wheel: Left shift + 1
 
 _No redistributing! or reselling!_]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[vTuber Kit]]></title>
+            <link>https://kawaentertainment.com/assets/v-tuber-kit/</link>
+            <guid>https://kawaentertainment.com/assets/v-tuber-kit/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.
+
+vTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.
+
+And of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.
+
+Users can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Yukarinette ConnectorNeo]]></title>
+            <link>https://kawaentertainment.com/assets/yukarinette-connector-neo/</link>
+            <guid>https://kawaentertainment.com/assets/yukarinette-connector-neo/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
+
+#### Instructions
+
+[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
+
+We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
+
+In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Concert Twitch Overlay]]></title>
@@ -510,19 +523,6 @@ An overlay that allows Twitch streamers to have an interactive audience that per
 Any questions can be directed at me via twitter or put in the comments below.
 
 https://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[vTuber Kit]]></title>
-            <link>https://kawaentertainment.com/assets/v-tuber-kit/</link>
-            <guid>https://kawaentertainment.com/assets/v-tuber-kit/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.
-
-vTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.
-
-And of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.
-
-Users can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.]]></content:encoded>
         </item>
     </channel>
 </rss>

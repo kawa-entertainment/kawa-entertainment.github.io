@@ -4,10 +4,31 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cosplay Mania 2022 to Host Ayunda Risu and Kureiji Ollie]]></title>
+            <link>https://kawaentertainment.com/news/cosplay-mania-2022-to-host-ayunda-risu-and-kureiji-ollie/</link>
+            <guid>https://kawaentertainment.com/news/cosplay-mania-2022-to-host-ayunda-risu-and-kureiji-ollie/</guid>
+            <pubDate>Sat, 13 Aug 2022 08:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Cosplay Mania 2022, an annual cosplay convention in the Philippines, is set to host Hololive Indonesia's Ayunda Risu and Kureiji Ollie this October.
+
+https://twitter.com/CosplayManiaPH/status/1558332698304856065
+
+Risu from HoloID first generation is known best for her content, including the 30-day [Non-Stop Nut November](https://www.youtube.com/watch?v=a0h_8ewFizI&list=PLHeIKIUgnbJBH0BVTdiAiOs-fIyV6Yx8n) clips and [classic stream](https://www.youtube.com/watch?v=q0Y-XuaSwqU) where she counts the coins inside HoloID genmate Moona Hoshinova's coin bank without permission.
+
+Aside from this, she has released songs such as [ALiCE&u](https://youtu.be/IGviVpVE1fA), [Harapan PanPanPan](https://youtu.be/N9M5jX9z5cQ) with Holostars' Aragami Oga, and [HI-15](https://youtu.be/XSZNNbbVuho) with Moona and Airani Iofifteen. This is set to be Risu's first visit to the Philippines.
+
+https://twitter.com/CosplayManiaPH/status/1558363007331311618
+
+Kureiji Ollie from HoloID second generation made waves as the second VTuber from Indonesia to reach her [million-subscriber milestone](https://animecorner.me/hololive-ids-kureiji-ollie-reaches-1-million-youtube-subscribers/), next to Moona. This zombie VTuber finished 6th in the Tournament Arc 2 chess competition organized by Chess.com. She also showed her [mathematics skills on stream](https://www.youtube.com/watch?v=ZhpmHQuR_cA) multiple times.
+
+***
+
+Cosplay Mania happens on the weekend of October 1-2, 2022 at SMX Convention Center Manila, Pasay City, Metro Manila, Philippines. Visit [facebook.com/CosplayMania](https://www.facebook.com/CosplayMania/ "https://www.facebook.com/CosplayMania/") for more details.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Philippine VTubers Collaborate for a Huge Merch Drop]]></title>
             <link>https://kawaentertainment.com/news/philippine-v-tubers-collaborate-for-a-huge-merch-drop/</link>
@@ -452,7 +473,9 @@ _She recently celebrated her one-year anniversary._
 
 **_We would like to extend a kind thank you to Kimie for taking the time to answer our questions surrounding a topic so close to her heart._**
 
-Banner Photo: Screenshots from Karamomo Kitchen’s [VTuber Showcase](https://www.youtube.com/watch?v=eXb5HamD_Yg)]]></content:encoded>
+Banner Photo: Screenshots from Karamomo Kitchen’s [VTuber Showcase](https://www.youtube.com/watch?v=eXb5HamD_Yg)
+
+_This Interview is first posted on Anime Corner April 17, 2022._]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The Growing VTuber Community]]></title>
@@ -583,7 +606,9 @@ You’ll also need a VTuber model itself, to which I recommend [VRoid Studio](ht
 
 VTubing is a big industry and it’s getting bigger. Many of the big names have never streamed before being a VTuber. The gate is wide open, whether you want to express yourself, shoot for fame and fortune, or simply want to be the anime person of your dreams.
 
-**_A kind thank you to our interviewees Fuwako Yuni, Akumako Rei, and Lucastre Mavia for taking the time to answer our questions._**]]></content:encoded>
+**_A kind thank you to our interviewees Fuwako Yuni, Akumako Rei, and Lucastre Mavia for taking the time to answer our questions._**
+
+_This Interview is first posted on Anime Corner February 12, 2022._]]></content:encoded>
         </item>
     </channel>
 </rss>
