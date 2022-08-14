@@ -6,11 +6,18 @@
     "description": "We are an \"adoption\" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.",
     "items": [
         {
-            "id": "https://kawaentertainment.com/assets/drawing-hand-asset/",
-            "content_html": "If you want something simple to use as a drawing hand asset this asset has you covered!\r\n\r\nhttps://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA",
-            "url": "https://kawaentertainment.com/assets/drawing-hand-asset/",
-            "title": "Drawing Hand Asset",
-            "date_modified": "2022-08-10T05:00:00.000Z"
+            "id": "https://kawaentertainment.com/assets/summer-t-i-t-s-assets/",
+            "content_html": "These are Summer themed 3D assets that can be used on VtuberPlus.\r\nThese assets are free to use but credit is appreciated! Resale is strictly prohibited!\r\n\r\nContact me on Twitter if you need assistance! (๑•̀ㅂ•́)و✧\r\n\r\nTwitter: [@DariRuuPom](https://twitter.com/DariRuuPom)",
+            "url": "https://kawaentertainment.com/assets/summer-t-i-t-s-assets/",
+            "title": "Summer T.I.T.S Assets",
+            "date_modified": "2022-08-13T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/twitch-integrated-throwing-system-t-i-t-s/",
+            "content_html": "This program allows your chat to bully you as much as possible >:D\r\n\r\nIt can be used with or without VTube Studio to let people throw items at your face!\r\nThis program is an OBS Overlay!\r\n\r\n#### Official Tutorial:\r\n\r\n`youtube:https://www.youtube.com/watch?v=hWOIZqv-u50`\r\n\r\n#### VSeeFace Tutorial:\r\n\r\n`youtube:https://www.youtube.com/watch?v=qnBIvTmQBv0`\r\n\r\n#### Unofficial Korean guide:\r\n\r\n[https://blog.naver.com/rmcpvkxld/222832425772](https://blog.naver.com/rmcpvkxld/222832425772 \"https://blog.naver.com/rmcpvkxld/222832425772\")\r\n\r\n#### Some of the notable features:\r\n\r\n* Model-Importer for importing 3D and 2D Models\r\n* Customization of the imported models' properties\r\n* Customize special Triggers for Events happening on Twitch\r\n* VSeeFace Support (alpha)\r\n\r\n#### Instructions:\r\n\r\n1. Unzip the file and start the \"Twitch Integrated Throwing System.exe\"\r\n2. Add the program as a \"game capture\" in your OBS sources and make sure \"Allow Transparency\" is checked!\r\n3. Make sure the application is covering the entire screen for the best experience\r\n4. To hide the program the default key-bind is to double-tap F10 (this can be changed in the settings)\r\n5. You can test throws by hitting F9 (this can also be changed)\r\n6. For a more comprehensive guide, check the official Tutorial!\r\n\r\nI am an inexperienced developer, so please contact me whenever you encounter issues or have suggestions for future updates!\r\n\r\nI am not responsible for the models that people import!  \r\n  \r\nOfficial discord: [https://discord.gg/fjYscQ9SF9](https://discord.gg/fjYscQ9SF9 \"https://discord.gg/fjYscQ9SF9\")[](https://discord.gg/fjYscQ9SF9)\r\n\r\n!! IMPORTANT !!\r\n\r\nYou will need to run Version 1.0.8 or higher otherwise your Twitch Authentication will not work!!!\r\n\r\n_VTuber used for Title-Picture:_ [_@maddiekuma_](https://www.twitch.tv/maddiekuma)",
+            "url": "https://kawaentertainment.com/assets/twitch-integrated-throwing-system-t-i-t-s/",
+            "title": "Twitch Integrated Throwing System (T.I.T.S)",
+            "date_modified": "2022-08-13T05:00:00.000Z"
         },
         {
             "id": "https://kawaentertainment.com/assets/v-tube-studio-plugin-for-stream-deck/",
@@ -24,6 +31,13 @@
             "content_html": "If you want something simple to use as a video game controller this asset has you covered!\r\n\r\n_picnic members can message for different color edits I won’t be adding designs though sorry_\r\n\r\nhttps://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA",
             "url": "https://kawaentertainment.com/assets/controller-asset/",
             "title": "Controller Asset",
+            "date_modified": "2022-08-10T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/drawing-hand-asset/",
+            "content_html": "If you want something simple to use as a drawing hand asset this asset has you covered!\r\n\r\nhttps://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA",
+            "url": "https://kawaentertainment.com/assets/drawing-hand-asset/",
+            "title": "Drawing Hand Asset",
             "date_modified": "2022-08-10T05:00:00.000Z"
         },
         {
@@ -41,13 +55,6 @@
             "date_modified": "2022-08-09T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/female-vtuber-model-body-base/",
-            "content_html": "For those who struggle or want a fast way to do the human anatomy & body layer splitting part. This asset could help you get started. \r\n\r\n#### PRODUCT INFO  \r\n\r\n* THIS PRODUCT IS NOT RIGGED!  \r\n* This product comes as (.PSD) file contained within a Zip file.  \r\n* YOU NEED PHOTOSHOP TO OPEN .PSD FILES.  \r\n* Canvas size in ZIP: 3140 x 7000  \r\n* Link (in notepad) to the HD Canvas/ Model size in my Google drive.  \r\n* Bikini and watermark not included  \r\n  \r\n#### PERSONAL USE LICENSE\r\n  \r\n**Every purchase for this file is for one single standalone license. If you want to use this file for commercial purposes please read the rules under the commercial license section.**\r\n  \r\n**CREDITING:** Please Credit @LavandereVT or the @AssetShop if you use the base in any way (as is, for tracing, reference, etc.)  \r\n  \r\n**SELLING:** Selling/ sharing/ redistribution is prohibited on a personal use license even if you edit/ trace/ reference the file.  \r\n  \r\n**RIGGERS:** The only exception for sharing the file is when giving your Vtuber model to a Live2D rigger solely for the purpose of having  \r\nyour model rigged. Riggers must also abide by the rules (it is your job to inform them and keep evidence they agree to the rules).  \r\n  \r\n**CHANGES:** You can change/ add whatever you want, including but not limited too:  \r\nbody shape/ colors/ layers/ facial features/ clothing/ cutting points/ etc.  \r\n  \r\n* You may use this body as a base for character concept designs (if only for personal use) but you may not sell it in adoptions/ etc. unless you bought a commercial license.*\r\n  \r\n* I cannot guarantee all the layers are split how you will want them to be, if you want more cuts in the model you will have to alter them yourself and have knowledge of how, I cannot teach you. This product is solely a basis for learning and providing aid for the vtuber design process.\r\n  \r\n* You may not sell your own body-base using this one as a reference/ guide.\r\n  \r\n#### COMMERCIAL LICENSE\r\n  \r\n**IF ANYTHING IS UNCLEAR OR YOU ARE NOT SURE ABOUT PLEASE SEND A DM**\r\n\r\n**LICENSE:** Each individual variant of a vtuber custom/ commission, artwork adoptable, etc. is considered 1 standalone license to use this file.  \r\n  \r\n* You may not sell/share this file in the same manner in which you bought it here on Etsy, nor do so on other platforms.  \r\n  \r\n* All future clients must abide by the same rules of owning this file. It is your sole responsibility to make them aware of said rules and keep evidence of their agreement in case of legal issues arise.  \r\n  \r\n* All rules from the personal use section also apply (excluding the fact you must share the file to the client who bought the custom work from you)  \r\n  \r\n*If you have issues please DM me. I'll always do my best to help! ♡*",
-            "url": "https://kawaentertainment.com/assets/female-vtuber-model-body-base/",
-            "title": "Female Vtuber Model Body Base",
-            "date_modified": "2022-08-09T05:00:00.000Z"
-        },
-        {
             "id": "https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/",
             "content_html": "For those who struggle making mouths in Live2D here's a chart with info just for you!\r\n\r\nhttps://twitter.com/koziichu/status/1493370769748807681\r\n\r\nhttps://twitter.com/koziichu/status/1493370773943119877?s=20&t=i0iDa7lZTxVEBOmr9TxY6A\r\n\r\nhttps://twitter.com/koziichu/status/1493370806084145152?s=20&t=i0iDa7lZTxVEBOmr9TxY6A",
             "url": "https://kawaentertainment.com/assets/live2-d-mouth-and-chin-chart/",
@@ -55,17 +62,31 @@
             "date_modified": "2022-08-09T05:00:00.000Z"
         },
         {
+            "id": "https://kawaentertainment.com/assets/female-vtuber-model-body-base/",
+            "content_html": "For those who struggle or want a fast way to do the human anatomy & body layer splitting part. This asset could help you get started. \r\n\r\n#### PRODUCT INFO  \r\n\r\n* THIS PRODUCT IS NOT RIGGED!  \r\n* This product comes as (.PSD) file contained within a Zip file.  \r\n* YOU NEED PHOTOSHOP TO OPEN .PSD FILES.  \r\n* Canvas size in ZIP: 3140 x 7000  \r\n* Link (in notepad) to the HD Canvas/ Model size in my Google drive.  \r\n* Bikini and watermark not included  \r\n  \r\n#### PERSONAL USE LICENSE\r\n  \r\n**Every purchase for this file is for one single standalone license. If you want to use this file for commercial purposes please read the rules under the commercial license section.**\r\n  \r\n**CREDITING:** Please Credit @LavandereVT or the @AssetShop if you use the base in any way (as is, for tracing, reference, etc.)  \r\n  \r\n**SELLING:** Selling/ sharing/ redistribution is prohibited on a personal use license even if you edit/ trace/ reference the file.  \r\n  \r\n**RIGGERS:** The only exception for sharing the file is when giving your Vtuber model to a Live2D rigger solely for the purpose of having  \r\nyour model rigged. Riggers must also abide by the rules (it is your job to inform them and keep evidence they agree to the rules).  \r\n  \r\n**CHANGES:** You can change/ add whatever you want, including but not limited too:  \r\nbody shape/ colors/ layers/ facial features/ clothing/ cutting points/ etc.  \r\n  \r\n* You may use this body as a base for character concept designs (if only for personal use) but you may not sell it in adoptions/ etc. unless you bought a commercial license.*\r\n  \r\n* I cannot guarantee all the layers are split how you will want them to be, if you want more cuts in the model you will have to alter them yourself and have knowledge of how, I cannot teach you. This product is solely a basis for learning and providing aid for the vtuber design process.\r\n  \r\n* You may not sell your own body-base using this one as a reference/ guide.\r\n  \r\n#### COMMERCIAL LICENSE\r\n  \r\n**IF ANYTHING IS UNCLEAR OR YOU ARE NOT SURE ABOUT PLEASE SEND A DM**\r\n\r\n**LICENSE:** Each individual variant of a vtuber custom/ commission, artwork adoptable, etc. is considered 1 standalone license to use this file.  \r\n  \r\n* You may not sell/share this file in the same manner in which you bought it here on Etsy, nor do so on other platforms.  \r\n  \r\n* All future clients must abide by the same rules of owning this file. It is your sole responsibility to make them aware of said rules and keep evidence of their agreement in case of legal issues arise.  \r\n  \r\n* All rules from the personal use section also apply (excluding the fact you must share the file to the client who bought the custom work from you)  \r\n  \r\n*If you have issues please DM me. I'll always do my best to help! ♡*",
+            "url": "https://kawaentertainment.com/assets/female-vtuber-model-body-base/",
+            "title": "Female Vtuber Model Body Base",
+            "date_modified": "2022-08-09T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/schedule-studio/",
+            "content_html": "\r\nA browser-based schedule creation tool with completely custom color combinations built in no Photoshop required! Creating a schedule can become a chore for content creators. Schedule Studio aims to streamline that process, making it easy for anyone to create a schedule when on the go.\r\n\r\n`button:/schedule-editor:Open Schedule Studio`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to use our schedule creator!\r\n\r\n- Open Schedule Studio\r\n- Select your template and theme\r\n- Edit the colors\r\n- Edit the text (by clicking it)\r\n- Add your image (by clicking it)\r\n- Hit Save\r\n- ???\r\n- Profit\r\n\r\n#### Example Users\r\n\r\nhttps://twitter.com/funamusea/status/1533284269657042945?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\nhttps://twitter.com/StarryYozzy/status/1523647418805686272?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\n_Schedule Studio is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
+            "url": "https://kawaentertainment.com/assets/schedule-studio/",
+            "title": "Schedule Studio",
+            "date_modified": "2022-08-07T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/view-link-vr-to-live2-d/",
+            "content_html": "Are you a VTuber that wants to stream VR games, but only have a Live2D model? With ViewLink, you can have your Live2D avatar react to VR gameplay without any fancy setup or additional hardware!\r\n\r\n`button:https://kawaentertainment.itch.io/viewlink:Download ViewLink`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Examples\r\n\r\nhttps://twitter.com/kawa_entertain/status/1511910027669430276?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\nhttps://twitter.com/Robpoke/status/1521468493857800197?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\n#### Notable Current Features\r\n\r\n- VR head movement transferred to a Live2D avatar.\r\n- Automatic eye blinking setup.\r\n- Use your microphone to control your Live2D avatar's mouth movement.\r\n- In-game quick access menu for swapping models and activating hotkeys on the fly.\r\n\r\n#### Planned Features\r\n\r\n- Gesture-based expression activation.\r\n- Improve UI customization options, especially the quick access menu.\r\n- Improve the hand tracking data passed to Vtube Studio.\r\n- Send finger tracking if the controller supports it to Vtube Studio.\r\n- Send controller rotation information to Vtube Studio.\r\n- Add play space tracking.\r\n\r\n#### Current Limitations\r\n\r\n- Hand tracking data doesn't include controller rotation or finger tracking.\r\n- Very limited customization for quick access hand menu.\r\n\r\n#### Setup Instructions\r\n\r\n- Start Vtube Studio\\* and turn on plugins\r\n- Start SteamVR (and make sure all controllers are properly connected)\r\n- Unzip the downloaded file and start the \"ViewLink VR to Live2D.exe\"\r\n- Configure the application through the SteamVR dashboard\r\n\r\n_ViewLink is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n\r\n_\\*Vtube Studio must be purchased separately in order to use this application._",
+            "url": "https://kawaentertainment.com/assets/view-link-vr-to-live2-d/",
+            "title": "ViewLink: VR to Live2D",
+            "date_modified": "2022-08-07T05:00:00.000Z"
+        },
+        {
             "id": "https://kawaentertainment.com/assets/parrot-peachy/",
             "content_html": "Let the cute lovebird Peachy stand on your shoulder!  \r\n\r\n#### Animations\r\n- Shake Head Madly  \r\n- Idle  \r\n- Idle (Only Eye Blink)  \r\n- MANGO  \r\n  \r\n#### Setting up animations:  \r\n\r\nhttps://twitter.com/catlop0202/status/1536616541952692225\r\n  \r\n  \r\n#### Things you **CAN** do:  \r\n- Customize mesh color  \r\n- Customize parameters as a model  \r\n- Proper use through VTubeStudio (Streaming, Screenshot, etc.)  \r\n  \r\n#### Things you **CAN'T** do:  \r\n- Secondary release  \r\n- Any other uses out of VTubeStudio without my permission  \r\n- Claim to be the author  \r\n  \r\n_If there's any problem with the authorization, please contact me._",
             "url": "https://kawaentertainment.com/assets/parrot-peachy/",
             "title": "Parrot Peachy",
-            "date_modified": "2022-08-06T05:00:00.000Z"
-        },
-        {
-            "id": "https://kawaentertainment.com/assets/v-tube-studio/",
-            "content_html": "VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.\r\n\r\n#### Usage Example\r\n\r\nhttps://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w\r\n\r\n_Wanna see more examples? Just search [\"VTube Studio\" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._",
-            "url": "https://kawaentertainment.com/assets/v-tube-studio/",
-            "title": "VTube Studio",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
@@ -83,17 +104,10 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/schedule-studio/",
-            "content_html": "\r\nA browser-based schedule creation tool with completely custom color combinations built in no Photoshop required! Creating a schedule can become a chore for content creators. Schedule Studio aims to streamline that process, making it easy for anyone to create a schedule when on the go.\r\n\r\n`button:/schedule-editor:Open Schedule Studio`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to use our schedule creator!\r\n\r\n- Open Schedule Studio\r\n- Select your template and theme\r\n- Edit the colors\r\n- Edit the text (by clicking it)\r\n- Add your image (by clicking it)\r\n- Hit Save\r\n- ???\r\n- Profit\r\n\r\n#### Example Users\r\n\r\nhttps://twitter.com/funamusea/status/1533284269657042945?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\nhttps://twitter.com/StarryYozzy/status/1523647418805686272?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\n_Schedule Studio is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
-            "url": "https://kawaentertainment.com/assets/schedule-studio/",
-            "title": "Schedule Studio",
-            "date_modified": "2022-08-06T05:00:00.000Z"
-        },
-        {
-            "id": "https://kawaentertainment.com/assets/view-link-vr-to-live2-d/",
-            "content_html": "Are you a VTuber that wants to stream VR games, but only have a Live2D model? With ViewLink, you can have your Live2D avatar react to VR gameplay without any fancy setup or additional hardware!\r\n\r\n`button:https://kawaentertainment.itch.io/viewlink:Download ViewLink`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Examples\r\n\r\nhttps://twitter.com/kawa_entertain/status/1511910027669430276?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\nhttps://twitter.com/Robpoke/status/1521468493857800197?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\n#### Notable Current Features\r\n\r\n- VR head movement transferred to a Live2D avatar.\r\n- Automatic eye blinking setup.\r\n- Use your microphone to control your Live2D avatar's mouth movement.\r\n- In-game quick access menu for swapping models and activating hotkeys on the fly.\r\n\r\n#### Planned Features\r\n\r\n- Gesture-based expression activation.\r\n- Improve UI customization options, especially the quick access menu.\r\n- Improve the hand tracking data passed to Vtube Studio.\r\n- Send finger tracking if the controller supports it to Vtube Studio.\r\n- Send controller rotation information to Vtube Studio.\r\n- Add play space tracking.\r\n\r\n#### Current Limitations\r\n\r\n- Hand tracking data doesn't include controller rotation or finger tracking.\r\n- Very limited customization for quick access hand menu.\r\n\r\n#### Setup Instructions\r\n\r\n- Start Vtube Studio\\* and turn on plugins\r\n- Start SteamVR (and make sure all controllers are properly connected)\r\n- Unzip the downloaded file and start the \"ViewLink VR to Live2D.exe\"\r\n- Configure the application through the SteamVR dashboard\r\n\r\n_ViewLink is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n\r\n_\\*Vtube Studio must be purchased separately in order to use this application._",
-            "url": "https://kawaentertainment.com/assets/view-link-vr-to-live2-d/",
-            "title": "ViewLink: VR to Live2D",
+            "id": "https://kawaentertainment.com/assets/v-tube-studio/",
+            "content_html": "VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.\r\n\r\n#### Usage Example\r\n\r\nhttps://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w\r\n\r\n_Wanna see more examples? Just search [\"VTube Studio\" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._",
+            "url": "https://kawaentertainment.com/assets/v-tube-studio/",
+            "title": "VTube Studio",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
@@ -111,10 +125,10 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/v-tuber-kit/",
-            "content_html": "VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.\r\n\r\nvTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.\r\n\r\nAnd of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.\r\n\r\nUsers can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.",
-            "url": "https://kawaentertainment.com/assets/v-tuber-kit/",
-            "title": "vTuber Kit",
+            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
+            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "title": "Concert Twitch Overlay",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
@@ -125,10 +139,10 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
-            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "title": "Concert Twitch Overlay",
+            "id": "https://kawaentertainment.com/assets/v-tuber-kit/",
+            "content_html": "VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.\r\n\r\nvTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.\r\n\r\nAnd of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.\r\n\r\nUsers can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.",
+            "url": "https://kawaentertainment.com/assets/v-tuber-kit/",
+            "title": "vTuber Kit",
             "date_modified": "2022-08-06T05:00:00.000Z"
         }
     ]
