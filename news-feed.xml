@@ -4,10 +4,29 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Thu, 18 Aug 2022 18:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AniManGaki 2022 to Showcase 80 Malaysian VTubers]]></title>
+            <link>https://kawaentertainment.com/news/ani-man-gaki-2022-to-showcase-80-malaysian-v-tubers/</link>
+            <guid>https://kawaentertainment.com/news/ani-man-gaki-2022-to-showcase-80-malaysian-v-tubers/</guid>
+            <pubDate>Thu, 18 Aug 2022 06:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[The annual AniManGaki convention is back in action, and it brings a newly-launched section on VTubers. A total of 80 Malaysian VTubers, independent and agency-affiliated, will be featured in this year's event.
+
+https://twitter.com/animangaki/status/1560281935162662912
+
+https://twitter.com/animangaki/status/1560281947208790017
+
+https://twitter.com/animangaki/status/1560281958592106496
+
+Featured VTubers include Aetheria Project's Oumiya Emma, Phase Connect's Remilia Nephys, Live2D artist Momoiro Kohi, Sushiya, and Valyria Starfire.
+
+This VTuber Showcase will happen at the Upper Mezzanine Floor of AniManGaki 2022 inside Mines International Exhibition Centre, Kuala Lumpur, Malaysia on the weekend of August 27-28. Tickets are available at [animangaki.com](https://www.animangaki.com/).
+
+_Photo from_ [_AniManGaki Twitter_](https://twitter.com/animangaki/status/1560281935162662912)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Mori Calliope Releases Music Video for Let’s End The World]]></title>
             <link>https://kawaentertainment.com/news/mori-calliope-releases-music-video-for-let-s-end-the-world/</link>
@@ -261,6 +280,21 @@ Kureiji Ollie from HoloID second generation made waves as the second VTuber from
 Cosplay Mania happens on the weekend of October 1-2, 2022 at SMX Convention Center Manila, Pasay City, Metro Manila, Philippines. Visit [facebook.com/CosplayMania](https://www.facebook.com/CosplayMania/ "https://www.facebook.com/CosplayMania/") for more details.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Dance Dance Revolution A3 adds Kanaria's KING, Yoidore Shirazu]]></title>
+            <link>https://kawaentertainment.com/news/dance-dance-revolution-a3-adds-kanaria-s-king-yoidore-shirazu/</link>
+            <guid>https://kawaentertainment.com/news/dance-dance-revolution-a3-adds-kanaria-s-king-yoidore-shirazu/</guid>
+            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Konami's Dance Dance Revolution A3 on Twitter announced the addition of Kanaria's hit track KING as well as Yoidore Shirazu. Both songs were added to the game from 10:00am JST on Wednesday, August 10, 2022.
+
+https://twitter.com/DDR_573/status/1557170890940395520
+
+KING, which rose to popularity as a song covered by [a lot of VTubers](https://www.youtube.com/watch?v=TR9XYJNlLIw), was released in August 2020. Currently, the [original music video](https://www.youtube.com/watch?v=cm-l2h6GB8Q) has reached more than 60 million views on YouTube. VTubers can catch up in making their cover of the song as this is available [on Piapro](https://piapro.jp/t/JABq).
+
+Yoidore Shirazu, released in May this year, had its music video illustrated by renowned artist LAM (who also illustrated character designs for Kureiji Ollie, Vox Akuma, Fulgur Ovid, RPR, Kujou Ringo among others). Currently, its [music video](https://www.youtube.com/watch?v=vB8sxY_PJ_w) has reached over 8 million views on YouTube.
+
+Banner Photo from DDRチーム【公式】 on Twitter]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Philippine VTubers Collaborate for a Huge Merch Drop]]></title>
             <link>https://kawaentertainment.com/news/philippine-v-tubers-collaborate-for-a-huge-merch-drop/</link>
             <guid>https://kawaentertainment.com/news/philippine-v-tubers-collaborate-for-a-huge-merch-drop/</guid>
@@ -298,21 +332,6 @@ In his [post-event reflection](https://www.facebook.com/GoodKnightGame/posts/pfb
 ***
 
 Concluding this piece, we congratulate Good Knight for the successful merch collab, which shows how local VTubers can band together and make history.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Dance Dance Revolution A3 adds Kanaria's KING, Yoidore Shirazu]]></title>
-            <link>https://kawaentertainment.com/news/dance-dance-revolution-a3-adds-kanaria-s-king-yoidore-shirazu/</link>
-            <guid>https://kawaentertainment.com/news/dance-dance-revolution-a3-adds-kanaria-s-king-yoidore-shirazu/</guid>
-            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Konami's Dance Dance Revolution A3 on Twitter announced the addition of Kanaria's hit track KING as well as Yoidore Shirazu. Both songs were added to the game from 10:00am JST on Wednesday, August 10, 2022.
-
-https://twitter.com/DDR_573/status/1557170890940395520
-
-KING, which rose to popularity as a song covered by [a lot of VTubers](https://www.youtube.com/watch?v=TR9XYJNlLIw), was released in August 2020. Currently, the [original music video](https://www.youtube.com/watch?v=cm-l2h6GB8Q) has reached more than 60 million views on YouTube. VTubers can catch up in making their cover of the song as this is available [on Piapro](https://piapro.jp/t/JABq).
-
-Yoidore Shirazu, released in May this year, had its music video illustrated by renowned artist LAM (who also illustrated character designs for Kureiji Ollie, Vox Akuma, Fulgur Ovid, RPR, Kujou Ringo among others). Currently, its [music video](https://www.youtube.com/watch?v=vB8sxY_PJ_w) has reached over 8 million views on YouTube.
-
-Banner Photo from DDRチーム【公式】 on Twitter]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NijiBesties at Otakuthon 2022 ]]></title>
@@ -609,15 +628,6 @@ Last year, he left clues for his message, which was then revealed at ALTA Studio
 https://twitter.com/ThisIsNijisanji/status/1408583286818066438
 
 His YouTube channel and Twitter profile will still be available. However, some archived videos will be made unlisted.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Neena Makurano Officially Terminated from Production Kawaii]]></title>
-            <link>https://kawaentertainment.com/news/neena-makurano-officially-terminated-from-production-kawaii/</link>
-            <guid>https://kawaentertainment.com/news/neena-makurano-officially-terminated-from-production-kawaii/</guid>
-            <pubDate>Sat, 04 Jun 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Fans were surprised to learn that Neena Makurano of Production Kawaii—who was originally set to graduate on August 2nd—has had her contract terminated by the agency on June 3rd. In an official statement, Production Kawaii management has said that they discovered Neena was involved in actions causing a breach of contract, such as leaking confidential information, leaking false information including slander, and involvement in VTuber activities aside from those in Kawaii which violates their exclusivity clause.
-
-https://twitter.com/kawaiiOfficial5/status/1532670987422306304]]></content:encoded>
         </item>
     </channel>
 </rss>
