@@ -4,10 +4,25 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Sat, 20 Aug 2022 17:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 03:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hololive’s Murasaki Shion Releases New Single Chandelier]]></title>
+            <link>https://kawaentertainment.com/news/hololive-s-murasaki-shion-releases-new-single-chandelier/</link>
+            <guid>https://kawaentertainment.com/news/hololive-s-murasaki-shion-releases-new-single-chandelier/</guid>
+            <pubDate>Sat, 20 Aug 2022 22:01:00 GMT</pubDate>
+            <content:encoded><![CDATA[Murasaki Shion from Hololive has released a new single titled _Chandelier_. The track is produced and written by popular Vocaloid producer Kanaria, known for her tracks like _KING_, _Identity,_ and _Envy Baby_.
+
+`youtube:https://www.youtube.com/watch?v=Y-pC9U_usX8`
+
+The track was released in commemoration of Shion’s 4th anniversary of her debut as a VTuber. The music video’s main art was illustrated by popular VTuber illustrator LAM.
+
+This is the third single from Murasaki Shion, following her past singles “_Mage of Violet_” (August 2021) and “_AcaciaSyndrome_” (December 2021). She also appeared in other collab singles, such as “_Shiny Smily Story_” (September 2019) and “_Dreaming Days_” (February 2021).
+
+Shion debuted as part of Hololive’s second generation, alongside Minato Aqua, Nakiri Ayame, Yuzuki Choco and Oozora Subaru. She debuted on August 17, 2019. On April 10 this year, she hit the one million subscriber milestone on YouTube.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[VTubers Shoto, Bao Officially Join United Talent Agency Roster]]></title>
             <link>https://kawaentertainment.com/news/v-tubers-shoto-bao-officially-join-united-talent-agency-roster/</link>
@@ -595,35 +610,6 @@ _Gathered from_ [_Crunchyroll Expo website_](https://www.crunchyrollexpo.com/pan
 ### Sunday, August 7
 
 * **hololive - Cosplay Gathering** (Cosplay Gathering Outdoor Location - Main Entrance, 12:00pm)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Obsydia Crossing VRChat World Open to Public Until August 8]]></title>
-            <link>https://kawaentertainment.com/news/obsydia-crossing-vr-chat-world-open-to-public-until-august-8/</link>
-            <guid>https://kawaentertainment.com/news/obsydia-crossing-vr-chat-world-open-to-public-until-august-8/</guid>
-            <pubDate>Thu, 04 Aug 2022 00:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[Nijisanji EN's Obsydia unit celebrates its first-year debut anniversary by launching the Obsydia Crossing on VRChat. Selen Tatsuki leads this project together with Kanauru. Obsydia Crossing is modeled after Japan's famous Shibuya Crossing.
-
-`youtube:https://www.youtube.com/watch?v=5A7xdwc2oew`
-
-Upon entering the world, fans can also change their avatar to the Obsydia mascot of their choosing. Standees of Nijisanji EN characters are scattered around the map, and all of them can be gathered by fans in one place.
-
-![Photo: Bird's eye view of Obsydia Crossing from Petra's slide.](/src/assets/content/images/obsydia-crossing-vrchat-world.jpg "Photo: Bird's eye view of Obsydia Crossing from Petra's slide.")
-
-Photo: Bird's eye view of Obsydia Crossing from Petra's slide.
-
-Notable amenities include the stage area, the Cafe area where fans can take a pose with Rosemi Lovelock and Pomu Rainpuff, Selen's House Party arcade, and Petra Gurin's ice slide.
-
-The VRChat world is open until August 8 (Monday), 9:00am Japan time. VRChat users can access the world via PC and Meta Quest.
-
-https://twitter.com/Selen_Tatsuki/status/1553900855450951681
-
-Prior to this, Selen led the Nijisanji Express project in time for the new year's celebration.
-
-**_Project Leader ⁄ Designer:_** _Selen Tatsuki‚ Kanauru  
-**Modelers ⁄ Map Creator:** squiddingme‚ LegendsVR‚ Hasksoft‚ eN7ity  
-**Music:** TachibanaMusic_
-
-Photo: Bird's eye view of Obsydia Crossing from Petra's slide.]]></content:encoded>
         </item>
     </channel>
 </rss>

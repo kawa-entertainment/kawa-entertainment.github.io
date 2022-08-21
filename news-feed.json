@@ -6,6 +6,13 @@
     "description": "We are an \"adoption\" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.",
     "items": [
         {
+            "id": "https://kawaentertainment.com/news/hololive-s-murasaki-shion-releases-new-single-chandelier/",
+            "content_html": "Murasaki Shion from Hololive has released a new single titled _Chandelier_. The track is produced and written by popular Vocaloid producer Kanaria, known for her tracks like _KING_, _Identity,_ and _Envy Baby_.\r\n\r\n`youtube:https://www.youtube.com/watch?v=Y-pC9U_usX8`\r\n\r\nThe track was released in commemoration of Shion’s 4th anniversary of her debut as a VTuber. The music video’s main art was illustrated by popular VTuber illustrator LAM.\r\n\r\nThis is the third single from Murasaki Shion, following her past singles “_Mage of Violet_” (August 2021) and “_AcaciaSyndrome_” (December 2021). She also appeared in other collab singles, such as “_Shiny Smily Story_” (September 2019) and “_Dreaming Days_” (February 2021).\r\n\r\nShion debuted as part of Hololive’s second generation, alongside Minato Aqua, Nakiri Ayame, Yuzuki Choco and Oozora Subaru. She debuted on August 17, 2019. On April 10 this year, she hit the one million subscriber milestone on YouTube.",
+            "url": "https://kawaentertainment.com/news/hololive-s-murasaki-shion-releases-new-single-chandelier/",
+            "title": "Hololive’s Murasaki Shion Releases New Single Chandelier",
+            "date_modified": "2022-08-20T22:01:00.000Z"
+        },
+        {
             "id": "https://kawaentertainment.com/news/v-tubers-shoto-bao-officially-join-united-talent-agency-roster/",
             "content_html": "Independent VTubers Shoto and Bao are officially joining the talent roster of United Talent Agency (UTA), a global talent agency based in Beverly Hills, California.\r\n\r\nAccording to a report from [_Dot Esports_](https://dotesports.com/streaming/news/sykkuno-kkatamina-more-join-uta-talent-agency-expands-streaming-vtuber), Shxtou and Bao join other popular streamers such as Sykkuno, Kkatamina, Buddha, and _Stranger Things_ actress Grace Van Dien. Unlike existing streamer organizations or agencies like 100Thieves and OfflineTV, UTA operates as a way to aid signed talents to find sponsorships and other promotional opportunities.\r\n\r\nWhile Shoto hasn’t announced his signing with UTA, Bao had already posted about it on Twitter last June, stating that she is now represented by UTA.\r\n\r\nhttps://twitter.com/baovtuber/status/1542228850083409922\r\n\r\nShoto debuted on October 2, 2021, and is part of an independent VTuber group called Hanamori. Meanwhile, Bao, who previously produced music under the name Hikaru Station, debuted on October 30, 2020, where she released her single “52-Hearts.”",
             "url": "https://kawaentertainment.com/news/v-tubers-shoto-bao-officially-join-united-talent-agency-roster/",
@@ -172,13 +179,6 @@
             "url": "https://kawaentertainment.com/news/hololive-meet-at-crunchyroll-expo-2022-schedule/",
             "title": "Hololive Meet at Crunchyroll Expo 2022 Schedule",
             "date_modified": "2022-08-04T05:00:00.000Z"
-        },
-        {
-            "id": "https://kawaentertainment.com/news/obsydia-crossing-vr-chat-world-open-to-public-until-august-8/",
-            "content_html": "Nijisanji EN's Obsydia unit celebrates its first-year debut anniversary by launching the Obsydia Crossing on VRChat. Selen Tatsuki leads this project together with Kanauru. Obsydia Crossing is modeled after Japan's famous Shibuya Crossing.\r\n\r\n`youtube:https://www.youtube.com/watch?v=5A7xdwc2oew`\r\n\r\nUpon entering the world, fans can also change their avatar to the Obsydia mascot of their choosing. Standees of Nijisanji EN characters are scattered around the map, and all of them can be gathered by fans in one place.\r\n\r\n![Photo: Bird's eye view of Obsydia Crossing from Petra's slide.](/src/assets/content/images/obsydia-crossing-vrchat-world.jpg \"Photo: Bird's eye view of Obsydia Crossing from Petra's slide.\")\r\n\r\nPhoto: Bird's eye view of Obsydia Crossing from Petra's slide.\r\n\r\nNotable amenities include the stage area, the Cafe area where fans can take a pose with Rosemi Lovelock and Pomu Rainpuff, Selen's House Party arcade, and Petra Gurin's ice slide.\r\n\r\nThe VRChat world is open until August 8 (Monday), 9:00am Japan time. VRChat users can access the world via PC and Meta Quest.\r\n\r\nhttps://twitter.com/Selen_Tatsuki/status/1553900855450951681\r\n\r\nPrior to this, Selen led the Nijisanji Express project in time for the new year's celebration.\r\n\r\n**_Project Leader ⁄ Designer:_** _Selen Tatsuki‚ Kanauru  \r\n**Modelers ⁄ Map Creator:** squiddingme‚ LegendsVR‚ Hasksoft‚ eN7ity  \r\n**Music:** TachibanaMusic_\r\n\r\nPhoto: Bird's eye view of Obsydia Crossing from Petra's slide.",
-            "url": "https://kawaentertainment.com/news/obsydia-crossing-vr-chat-world-open-to-public-until-august-8/",
-            "title": "Obsydia Crossing VRChat World Open to Public Until August 8",
-            "date_modified": "2022-08-04T00:35:00.000Z"
         }
     ]
 }
