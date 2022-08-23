@@ -4,10 +4,63 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Sun, 21 Aug 2022 06:02:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BanG Dream Announces Upcoming Collaboration With Hololive]]></title>
+            <link>https://kawaentertainment.com/news/ban-g-dream-announces-upcoming-collaboration-with-hololive/</link>
+            <guid>https://kawaentertainment.com/news/ban-g-dream-announces-upcoming-collaboration-with-hololive/</guid>
+            <pubDate>Mon, 22 Aug 2022 15:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[Popular mobile rhythm game _BanG Dream! Girls Band Party!_ has teased an upcoming collaboration with VTuber agency Hololive. The collaboration, according to the official English Twitter account of the game, will commence on August 26.
+
+https://twitter.com/bangdreamgbp_EN/status/1561261824938573826
+
+It should be noted that the announcement is posted on the game’s official English Twitter account, it is more likely that the collaboration will be only available to _BanG Dream! Girls Band Party!_ English players.
+
+Hololive has already made a collaboration with the _BanG Dream!_ franchise back in October 2021, albeit for its Japanese players only back. The collaboration back then saw three Hololive talents: Minato Aqua, Tokino Sora, and Shirakami Fubuki–partake in the collaboration. Aside from perks and merchandise, fans also enjoyed collaboration song covers made by Hololive and the characters in-game.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[YAGOO Shows Off Summer Dance Moves in Hololive Ondo Music Video]]></title>
+            <link>https://kawaentertainment.com/news/yagoo-shows-off-summer-dance-moves-in-hololive-ondo-music-video/</link>
+            <guid>https://kawaentertainment.com/news/yagoo-shows-off-summer-dance-moves-in-hololive-ondo-music-video/</guid>
+            <pubDate>Mon, 22 Aug 2022 15:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Motoaki Tanigo ‘YAGOO’ has shown off his summer dance moves in the music video for “_Hololive Ondo_” the second track for the Hololive Summer 2022 event.
+
+`youtube:https://www.youtube.com/watch?v=s_uiT5C8BjQ`
+
+The music video was filmed at the Shin-Yokohama Ramen Museum, and features YAGOO dancing along with the well-known mascots of Oozora Subaru’s duck, Sakura Miko, and Tokino Sora’s Ankimo. Japanese musical ensemble IOSYS was responsible for the composition, arrangement and lyrics of the song.
+
+Following the music video release, YAGOO posted on Twitter, joking that the reason why he had a serious face during the music video shoot was due to the shoot being scheduled late at night, and had to drop by after his work in the office.
+
+https://twitter.com/tanigox/status/1561301213752479744
+
+[Hololive Summer 2022](https://hololivesummer2022.hololivepro.com/) has also released another music video for “[_Tonde K!_](https://www.youtube.com/watch?v=zHD5MCUezVo)”. A special celebration held by Hololive since 2019, some of the upcoming events that will happen during this event include outdoor advertising for Hololive Summer in Shinjuki Station featuring Hololive talents in _yukata_ attire, a special web manga video series centered around the summer festivities, among others.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sony Music Entertainment Japan Teases VEE Project’s Dev-c Generation]]></title>
+            <link>https://kawaentertainment.com/news/sony-music-entertainment-japan-teases-vee-project-s-dev-c-generation/</link>
+            <guid>https://kawaentertainment.com/news/sony-music-entertainment-japan-teases-vee-project-s-dev-c-generation/</guid>
+            <pubDate>Mon, 22 Aug 2022 14:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[Sony Music Entertainment Japan has teased the debut of a new VTuber lineup under VEE Project. The third unit, dubbed ‘Dev-c’ will debut on August 26, 2022, with each talent allotted their own debut time on said day.
+
+Dev-c is composed of talents Aomiya Yozuri, Uriyone, Uparu, Luminous Amaama, and TwiCoto. Catch their debut schedules here:
+
+* Aomiya Yozuri (18:00 JST)
+* Uriyone (18:45 JST)
+* Uparu (19:30 JST)
+* Luminous Amaama (20:15 JST)
+* TwiCoto (21:00 JST)
+
+https://twitter.com/_vee_official_/status/1561556264554987521
+
+Currently, there are two waves within the VEE Project, namely Dev-a (Otokado Ruki, Tulsi-Nightmare Madness IV, Hinahoshi Airu, Kujo Ringo, Syusetu Kohaku) and Dev-b (Audrey Mina, Oshiro Ito, Sazanami Toa, Hiyori Chihiyo, Mew Garcia, and retired talent [Shindouji Ako](https://kawaentertainment.com/news/vee-project-s-shindouji-ako-officially-retires/))
+
+Other VTuber projects under the Sony Music Entertainment Japan brand include VERSE, Cinderella Project, and [PRISM Project](https://kawaentertainment.com/news/tag/prism/).
+
+_Photo from VEE / Illustration:_ [_kodamazon_](https://twitter.com/kodamazon_kdm)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hololive’s Murasaki Shion Releases New Single Chandelier]]></title>
             <link>https://kawaentertainment.com/news/hololive-s-murasaki-shion-releases-new-single-chandelier/</link>
@@ -566,59 +619,6 @@ PRISM Project's manager, known as Shogun, prepared a message for this year's aud
 Twelve (12) agents spread to 4 generations compose the project's talent roster: Iku Hoshifuri, Aoi Tokimori, Meno Ibuki, Rita Kamishiro, Luto Araka, Shiki Miyoshino, Nia Suzune, Yura Rikudou, Pina Pengin, Naki Kamizuki, Sara Nagare and Non Anon.
 
 Sony Music Entertainment (Japan) manages PRISM Project alongside VERSEⁿ, VEE, and the Virtual Cinderella Project. Sony Music also has an investment in ANYCOLOR Inc., (Nijisanji).]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Project Kavvaii's Aozora Kurumi Graduates]]></title>
-            <link>https://kawaentertainment.com/news/project-kavvaii-s-aozora-kurumi-graduates/</link>
-            <guid>https://kawaentertainment.com/news/project-kavvaii-s-aozora-kurumi-graduates/</guid>
-            <pubDate>Sun, 07 Aug 2022 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Project Kavvaii's pioneer VTuber Aozora Kurumi has graduated as she held her final stream Sunday, August 7. Kurumi reads letters from fans, sings songs and reflects on her VTubing career.
-
-`youtube:https://www.youtube.com/watch?v=XsVy5NV3bxo`
-
-Kurumi debuted on YouTube May 8 last year, and has reached more than 25,000 YouTube subscribers and around 7,300 Twitter followers as of press time. She is known for her song covers, singing K/DA's _VILLAIN_, BTS' _BUTTER_ (with Miori Celesta) and _We Don't Talk About Bruno_ from Disney movie _Encanto_.
-
-Kurumi's character design was developed by illustrator Yueko and rigged by Brian Tsui, Soy, Sync Kage and Akatsuki Enma from Iron Vertex. Following her graduation, her channel will remain on YouTube and will still be around.
-
-https://twitter.com/AozoraKurumi/status/1556320552733667329
-
-Project Kavvaii is the VTuber brand of low-cost carrier airasia. Its current talents are Airi Gwynevere and Mikazuki Mai.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to VTuber NewsDrop]]></title>
-            <link>https://kawaentertainment.com/news/welcome-to-v-tuber-news-drop/</link>
-            <guid>https://kawaentertainment.com/news/welcome-to-v-tuber-news-drop/</guid>
-            <pubDate>Sat, 06 Aug 2022 23:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[## Drop 💧 get it?
-
-The vision for **NewsDrop** is to become a hub for VTuber News and Features with improved emphasis on local VTuber cultures in different regions of the world. We also showcase the latest in VTuber tech the community needs to know.
-
-While others focus on talents from major agencies, we also want to, when possible, show the spotlight on other VTuber groups and individials, and what impact they have in their communities.
-
-**Hope you all enjoy this industry first. We're excited to bring more awesome stories directly to you!**
-
-## Meet Our Writers
-
-[@vg_pidge](https://twitter.com/vg_pidge)  
-[@JayAgonoy](https://twitter.com/JayAgonoy)  
-[@MontySeelana](https://twitter.com/MontySeelana)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nijisanji Festival 2022 Confirms LazuLight and Hana Macchia's 3D Debut]]></title>
-            <link>https://kawaentertainment.com/news/nijisanji-festival-2022-confirms-lazu-light-and-hana-macchia-s-3-d-debut/</link>
-            <guid>https://kawaentertainment.com/news/nijisanji-festival-2022-confirms-lazu-light-and-hana-macchia-s-3-d-debut/</guid>
-            <pubDate>Sat, 06 Aug 2022 14:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[Nijisanji announced on Twitter that the LazuLight trio of Elira Pendora, Pomu Rainpuff and Finana Ryugu as well as Hana Macchia will have their 3D model debuts at the upcoming [Nijisanji Festival 2022](https://fes.nijisanji.jp "NijiFes 2022") this October.
-
-Details for Open Stage on Day 2 (Sunday, October 2) indicate that the four VTubers are set to perform in 3D:
-
-https://twitter.com/NIJISANJI_World/status/1555895199817433089
-
-The Open Stage will be streamed live on Nijisanji's official YouTube Channel.
-
-Several Nijisanji talents are also set to appear in their 3D form at the weekend event, including Morinaka Kazaki, Selene Girls' Academy Drama Club, and select members of VirtuaReal.
-
-Other Nijisanji EN talents who will be present in 2D are Obsydia, Ethyria, Luxiem's Shu Yamino, Vox Akuma and Mysta Rias.]]></content:encoded>
         </item>
     </channel>
 </rss>
