@@ -4,10 +4,29 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Fri, 26 Aug 2022 23:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 20:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inugami Korone Teams Up with Sonic for Japanese Exclusive Sonic Frontiers Bonuses]]></title>
+            <link>https://kawaentertainment.com/news/inugami-korone-teams-up-with-sonic-for-japanese-exclusive-sonic-frontiers-bonuses/</link>
+            <guid>https://kawaentertainment.com/news/inugami-korone-teams-up-with-sonic-for-japanese-exclusive-sonic-frontiers-bonuses/</guid>
+            <pubDate>Sat, 27 Aug 2022 00:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[Sega of Japan [announced](https://twitter.com/SonicOfficialJP/status/1562290612858388480) an exciting collaboration with Hololive’s very own Inugami Korone to provide incredible bonuses for fans of both the super-fast hedgehog and gamer dog for Sonic Frontiers, which is due to release on November 8th.
+
+According to [Nintendo Life](https://www.nintendolife.com/news/2022/08/sonic-frontiers-pre-orders-come-with-famous-v-tuber-dlc-in-japan), these bonuses, which are apparently exclusive to Japan, will provide different Sonic- and Korone-themed items depending on where a customer pre-orders the upcoming game.
+
+The shops offering their own unique Korone-themed bonuses are Amazon, which offers Korone sound effects, GEO which offers a Sonic-themed Korone original acrylic panel, Joshin Deki which has Korone-themed shoes and gloves that Sonic can wear, and Rakuten Books will replace the mascot character "Coco" to "Koronesuki"
+
+![](/src/assets/content/images/sonic-korone-collab-items.jpg)
+
+[_(Screenshot)_](https://sonic.sega.jp/SonicFrontiers/products/)
+
+There is no word on whether any of these bonuses will reach the West, but it is not likely unless a customer imports the game.
+
+Banner Photo from [@SonicOfficialJP on Twitter](https://twitter.com/SonicOfficialJP/status/1562289865441816578)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Nijisanji EN at Animate Cafe]]></title>
             <link>https://kawaentertainment.com/news/nijisanji-en-at-animate-cafe/</link>
@@ -66,6 +85,27 @@ Did we forget to mention that the Ninisani gag is made canon here?
 ***
 
 The Nijisanji EN Animate Cafe collaboration is offered at Animate Cafe’s Ikebukuro No. 3 and Nagoya no. 2 branches until August 30.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PRISM Project’s Shogun Opens up About His Daily Life as a Producer]]></title>
+            <link>https://kawaentertainment.com/news/prism-project-s-shogun-opens-up-about-his-daily-life-as-a-producer/</link>
+            <guid>https://kawaentertainment.com/news/prism-project-s-shogun-opens-up-about-his-daily-life-as-a-producer/</guid>
+            <pubDate>Fri, 26 Aug 2022 17:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[PRISM Project producer Shogun held an [Ask Me Anything (AMA) event](https://www.reddit.com/r/VirtualYoutubers/comments/wu33ns/ama5pm_edt_im_shogun_producer_of_virtual_talent/?sort=top) on the r/VirtualYouTubers subreddit Monday, August 22. This opened the opportunity for PRISM fans to know more about its [ongoing audition](https://kawaentertainment.com/news/prism-project-opens-2022-auditions/) for its 5th generation, as well as his day in the life as a producer for the project.
+
+Shogun revealed his day in a life as a VTuber producer through [his replies](https://www.reddit.com/r/VirtualYoutubers/comments/wu33ns/comment/il8rdzc/?utm_source=reddit&utm_medium=web2x&context=3):
+
+> "\[...\] I can only speak for myself, but bearing in mind that I'm in Tokyo, I'm usually up by 6:30am, frequently have meetings with overseas clients in the early- to mid-morning, have 2-3 internal PRISM meetings every day, work on the business areas I mentioned above (accounting, legal, sales, marketing/media, admin, etc.) all afternoon, then watch PRISM streams in the evenings, try to clear out my inbox of emails in the late evenings, and hopefully go to bed by 12am-1am.These days I've been lucky to mostly be remote working, but there are days I have face-to-face meetings that require a commute into the city, so there's a few hours of train commute in there sometimes, too!"
+
+Another interesting answer Shogun [provided](https://www.reddit.com/r/VirtualYoutubers/comments/wu33ns/comment/il8p1wt/?utm_source=reddit&utm_medium=web2x&context=3) is his scope of work as a talent manager, which in turn gives the talents more time to produce more content:
+
+> "\[...\] I'd add to your list things like liaising with external creators (for music or video projects, etc.), general project management assistance, social media management help (something we're looking to strengthen in the next few weeks to months), external sales work (for events like Crunchyroll Expo, but other opportunities we're looking to bring to PRISM as well), providing opportunities for professional networking and skill development, doing any kind of translating/interpreting necessary to work across borders (particularly EN<=>JP) and so on."
+
+Aside from streaming support, securing permissions to stream select games, promotions and marketing, and providing feedback to talents, he [elaborated](https://www.reddit.com/r/VirtualYoutubers/comments/wu33ns/comment/il8rdzc/?utm_source=reddit&utm_medium=web2x&context=3) the set of skills that their managers are expected to have:
+
+> "\[...\] I'll add to the task list in the other comment that our managers really have to be jacks-of-all-trades and be able to handle a little of all the business areas you'd expect: accounting, legal, sales, marketing and media relations, administration, tech support, and so on.The first point of contact for our talents for any question or concern they have is always the management team, and so they really do need a wide range of knowledge and experience to provide the best support possible for each and every talent."
+
+Banner Photo via [@prismshogun](https://twitter.com/prismshogun/status/1559019631565996032)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Hololive Would Like to Try Out South America, European Markets in the Future]]></title>
@@ -518,38 +558,6 @@ In a [separate tweet](https://twitter.com/junjun585858/status/155990769455504588
 `youtube:https://www.youtube.com/watch?v=l-4ppZVtnBE`
 
 Haven-X was first [introduced](https://news.qoo-app.com/en/post/80997/haven-x-productions-metaverse-vtuber) as the world's first VTuber project dedicated to the metaverse, and the talents are referred to as "metaverse idols." The initial plan for its future development was "to provide a completely new entertainment experience with the use of technology, such as NFTs, blockchains, and the metaverse."]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VTuber Design Book at Comiket 100 Sold Out]]></title>
-            <link>https://kawaentertainment.com/news/v-tuber-design-book-at-comiket-100-sold-out/</link>
-            <guid>https://kawaentertainment.com/news/v-tuber-design-book-at-comiket-100-sold-out/</guid>
-            <pubDate>Tue, 16 Aug 2022 17:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[The 100th edition of Japan's popular Comic Market (Comiket) happened just last weekend, and among the various books sold at the fan event of the summer is a **VTuber Design Book** featuring more than 800 assets for various VTuber activities created by 98 designers.
-
-`youtube:https://www.youtube.com/watch?v=XEDNIRzuRrA`
-
-The book is divided into three parts: Design Samples, Design Wisdom and Design Materials, all done with a vision to improve the quality of VTuber designs in general. Physical copies of the book sold out at Comiket 100 in just a few hours.
-
-[https://twitter.com/kurumi_mokoko/status/1558297759568261120](https://twitter.com/kurumi_mokoko/status/1558297759568261120 "https://twitter.com/kurumi_mokoko/status/1558297759568261120")
-
-A total of 245 supporters backed the project on [Campfire](https://camp-fire.jp/projects/view/582411) for a total of around 1.2 million yen, which 305% of its 400,000-yen goal. The digital version is still available on [BOOTH](https://obakeshop.booth.pm/items/4067634) and [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1595385).
-
-Photo: [Okuri Sae on Twitter](https://twitter.com/OkuriSae/status/1559004795586748417)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VEE Project’s Shindouji Ako Officially Retires]]></title>
-            <link>https://kawaentertainment.com/news/vee-project-s-shindouji-ako-officially-retires/</link>
-            <guid>https://kawaentertainment.com/news/vee-project-s-shindouji-ako-officially-retires/</guid>
-            <pubDate>Tue, 16 Aug 2022 06:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[Shindouji Ako, a VTuber that is part of Sony Music Entertainment Japan’s VEE Project, has retired from her official VTuber activities, a month after she debuted.
-
-In an [announcement](https://vee-official.jp/news/220812_shindouji-retirement/) from the VEE Project, the agency said that Ako has decided to retire due to concerns about her poor health condition. The agency added that while they have discussed the possibility of temporarily suspending her activities, the talent has decided to retire from her activities, which the agency respects.
-
-Prior to the announcement on August 12, Shindouji Ako posted an update on July 24 that she hasn’t been active since her debut stream, and that she is consulting with her doctor regarding her health condition, albeit unspecified.
-
-https://twitter.com/Ako_shindouji/status/1550892708923064320
-
-Shindouji Ako, alongside the second wave of VEE Project talents Audrey Mina, Oshiro Ito, Sazanami Toa, Hiyori Chihiyo, and Mew Garcia–debuted on July 3. Following her retirement, the agency has stated that all of her social media channels will remain up.]]></content:encoded>
         </item>
     </channel>
 </rss>
