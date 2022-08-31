@@ -27,17 +27,17 @@
             "date_modified": "2022-08-10T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/controller-asset/",
-            "content_html": "If you want something simple to use as a video game controller this asset has you covered!\r\n\r\n_picnic members can message for different color edits I won’t be adding designs though sorry_\r\n\r\nhttps://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA",
-            "url": "https://kawaentertainment.com/assets/controller-asset/",
-            "title": "Controller Asset",
-            "date_modified": "2022-08-10T05:00:00.000Z"
-        },
-        {
             "id": "https://kawaentertainment.com/assets/drawing-hand-asset/",
             "content_html": "If you want something simple to use as a drawing hand asset this asset has you covered!\r\n\r\nhttps://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA",
             "url": "https://kawaentertainment.com/assets/drawing-hand-asset/",
             "title": "Drawing Hand Asset",
+            "date_modified": "2022-08-10T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/controller-asset/",
+            "content_html": "If you want something simple to use as a video game controller this asset has you covered!\r\n\r\n_picnic members can message for different color edits I won’t be adding designs though sorry_\r\n\r\nhttps://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA",
+            "url": "https://kawaentertainment.com/assets/controller-asset/",
+            "title": "Controller Asset",
             "date_modified": "2022-08-10T05:00:00.000Z"
         },
         {
@@ -104,6 +104,13 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
+            "id": "https://kawaentertainment.com/assets/klock/",
+            "content_html": "\r\nSo you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.\r\n\r\n`button:/klock-editor:Open Klock Editor`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to set up your very own Klock in OBS!\r\n\r\n- Open OBS\r\n- Add a new browser source\r\n- Make sure local file is checked\r\n- Hit browse and locate the klock.html file you downloaded\r\n- Configure the width / height / etc as you please\r\n- Hit okay\r\n- ???\r\n- Profit\r\n\r\n#### Example users\r\n\r\nhttps://twitter.com/kawa_entertain/status/1529146483634802692\r\n\r\nhttps://twitter.com/MofutariMegumi/status/1508493647402389506\r\n\r\nhttps://twitter.com/Nami_Miyahara/status/1508031189344522243\r\n\r\n_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
+            "url": "https://kawaentertainment.com/assets/klock/",
+            "title": "Klock",
+            "date_modified": "2022-08-06T05:00:00.000Z"
+        },
+        {
             "id": "https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/",
             "content_html": "Want satisfying ear wiggles when you blink? Floofy physics every turn? Get yourself these VTube Studio color-customizable cat ears!💖\r\n\r\nhttps://twitter.com/k1ruse/status/1550556818715586561?s=20&t=4oleqjl6tCLj8Z6jbzsjHA\r\n\r\n##### You CAN change the colors in VTS:\r\n\r\nWhen you load a new item in, press \"configure/finetune\", and on the next page after hitting \"save\", you can edit colors to match your own model using the \"multiply/screen\" feature!\r\n\r\n##### File includes:\r\n\r\n- Cat Ear VTS item files (.moc3, .cdi3, .model3, .phsyics3, texture file, .vtube)\r\n- Terms and Conditions.txt (+ how to change the colors in VTS)\r\n\r\n##### Before purchasing:\r\n\r\n- I highly suggest testing VTube Studio's existing Live2D animal ear items to see if this will attach well to your model. Pinning items can be tricky to get right.\r\n- This asset acts as a \"Live2D sticker\" above or behind your model, this will not work as well above horns or similar head accessories!\r\n\r\n##### Terms & Conditions:\r\n\r\n- Do not redistribute or resell the file or its contents.\r\n- Do not rip the art and use it in any way not pertaining to this asset.\r\n- You may edit and customize the colors of the item in VTube Studio, as well as on the texture file. Please keep texture file edits to simple color changes/adding accessories (piercings, etc).\r\n- If you are using this asset often, please credit me on the about page of your streaming platform of choice. Along with a link to the product page!\r\n\r\n---\r\n\r\n_With your purchase of my files, please respect the terms that come with it. Your integrity is extremely appreciated._\r\n\r\nKiru [@k1ruse](https://ko-fi.com/k1ruse)\r\n\r\nTwitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)\r\n\r\nCarrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)",
             "url": "https://kawaentertainment.com/assets/ultra-wiggly-cat-ears/",
@@ -111,17 +118,10 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/",
-            "content_html": "Made by 0ji_vt and Gomi\r\n\r\nSteering Wheel and Hat inspired by Mario Kart! This is a Live2d rigged vtuber asset for vtube studio. Not a png or animated gif.\r\n\r\nMake sure to adjust the x and y angles. So the angles of the hat fit your model!\r\n\r\nAlso, make sure to adjust the \"x and y shift\". So that the hat is centered on your head when you turn so it doesn't fall off your vtuber models head\r\n\r\nChange letter on hat: Left shift + Letter\r\n\r\nTurn off lights on steering wheel: Left shift + 1\r\n\r\n_No redistributing! or reselling!_",
-            "url": "https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/",
-            "title": "Steering Wheel and Hat Vtuber LIVE2D RIGGED assets",
-            "date_modified": "2022-08-06T05:00:00.000Z"
-        },
-        {
-            "id": "https://kawaentertainment.com/assets/klock/",
-            "content_html": "\r\nSo you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.\r\n\r\n`button:/klock-editor:Open Klock Editor`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to set up your very own Klock in OBS!\r\n\r\n- Open OBS\r\n- Add a new browser source\r\n- Make sure local file is checked\r\n- Hit browse and locate the klock.html file you downloaded\r\n- Configure the width / height / etc as you please\r\n- Hit okay\r\n- ???\r\n- Profit\r\n\r\n#### Example users\r\n\r\nhttps://twitter.com/kawa_entertain/status/1529146483634802692\r\n\r\nhttps://twitter.com/MofutariMegumi/status/1508493647402389506\r\n\r\nhttps://twitter.com/Nami_Miyahara/status/1508031189344522243\r\n\r\n_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
-            "url": "https://kawaentertainment.com/assets/klock/",
-            "title": "Klock",
+            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
+            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "title": "Concert Twitch Overlay",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
@@ -132,10 +132,10 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
-            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "title": "Concert Twitch Overlay",
+            "id": "https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/",
+            "content_html": "Made by 0ji_vt and Gomi\r\n\r\nSteering Wheel and Hat inspired by Mario Kart! This is a Live2d rigged vtuber asset for vtube studio. Not a png or animated gif.\r\n\r\nMake sure to adjust the x and y angles. So the angles of the hat fit your model!\r\n\r\nAlso, make sure to adjust the \"x and y shift\". So that the hat is centered on your head when you turn so it doesn't fall off your vtuber models head\r\n\r\nChange letter on hat: Left shift + Letter\r\n\r\nTurn off lights on steering wheel: Left shift + 1\r\n\r\n_No redistributing! or reselling!_",
+            "url": "https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/",
+            "title": "Steering Wheel and Hat Vtuber LIVE2D RIGGED assets",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
