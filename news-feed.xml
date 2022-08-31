@@ -4,7 +4,7 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Mon, 29 Aug 2022 17:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 18:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
@@ -230,7 +230,7 @@ Banner Photo from [@SonicOfficialJP on Twitter](https://twitter.com/SonicOfficia
             <link>https://kawaentertainment.com/news/nijisanji-en-at-animate-cafe/</link>
             <guid>https://kawaentertainment.com/news/nijisanji-en-at-animate-cafe/</guid>
             <pubDate>Fri, 26 Aug 2022 20:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[Part of NewsDrop’s activities is to feature various VTuber-related events across the globe, starting of course, in Japan, where the trend blew up. Slime alien VTuber and Kawa colleague PiaPi Yuefo shares her experience at the recent [Nijisanji EN Animate Cafe](https://cafe.animate.co.jp/event/nijisanji-en2208/) collaboration.
+            <content:encoded><![CDATA[Part of NewsDrop’s activities is to feature various VTuber-related events across the globe, starting of course, in Japan, where the trend blew up. Slime alien VTuber and Kawa colleague PiaPi UFO shares her experience at the recent [Nijisanji EN Animate Cafe](https://cafe.animate.co.jp/event/nijisanji-en2208/) collaboration.
 
 This cafe collab features Nijisanji EN livers Pomu Rainpuff (LazuLight), Selen Tatsuki (Obsydia), Reimu Endou (Ethyria), Ike Eveland, Shu Yamino and Luca Kaneshiro (Luxiem).
 
