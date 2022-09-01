@@ -4,10 +4,25 @@
         <title>Kawa Entertainment: VTuber NewsDrop Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Wed, 31 Aug 2022 22:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 17:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/news-feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HØRI 07 to Graduate from MyHolo TV on September 30]]></title>
+            <link>https://kawaentertainment.com/news/hori-07-to-graduate-from-my-holo-tv-on-september-30/</link>
+            <guid>https://kawaentertainment.com/news/hori-07-to-graduate-from-my-holo-tv-on-september-30/</guid>
+            <pubDate>Thu, 01 Sep 2022 15:04:05 GMT</pubDate>
+            <content:encoded><![CDATA[Thai VTuber HØRI 07 is set to leave MyHolo TV Entertainment on Friday, September 30, 2022. In a statement released by the Malaysia-based agency on Twitter, HØRI 07 will continue to pursue her activities as an independent VTuber, and has decided not to hold a graduation stream.
+
+https://twitter.com/myholotv/status/1565324498433617921
+
+HØRI 07's departure from MyHolo TV is due to the changes in her life circumstances in the coming year, which will make her unable to fulfill the agency's obligations. MyHolo TV thanks HØRI 07 "for a fulfilling achievement and productive year" with the agency.
+
+Her various activities as part of MyHolo TV's MonstarZ generation include her presence in physical events such as V-Festa at Japan Expo Thailand and Anime Fest at Paradigm Mall in Petaling Jaya, Malaysia. 
+
+She was also nominated for the Best Influencer Performance on Social Media – VTuber award at the 10th Thailand Zocial Awards held this year. As of the time of this post, HØRI 07 has 260,000 YouTube subscribers.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AniManGaki 2022 VTuber Highlights]]></title>
             <link>https://kawaentertainment.com/news/ani-man-gaki-2022-v-tuber-highlights/</link>
@@ -54,7 +69,7 @@ AniManGaki 2022 was held at the Mines International Exhibition and Convention Ce
             <link>https://kawaentertainment.com/news/millie-parfait-and-mysta-rias-won-t-be-able-to-participate-in-niji-fes-2022/</link>
             <guid>https://kawaentertainment.com/news/millie-parfait-and-mysta-rias-won-t-be-able-to-participate-in-niji-fes-2022/</guid>
             <pubDate>Mon, 29 Aug 2022 16:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[Nijisanji announced that EN talents Millie Parfait (Obsydia) and Mysta Rias (Luxiem) will not be able to make it to the Open Stage of Nijisanji Fes 2022 set for the weekend of October 1 and 2 at Makuhari Messe Exhibition Hall 1 to 5. 
+            <content:encoded><![CDATA[Nijisanji announced that EN talents Millie Parfait (Ethyria) and Mysta Rias (Luxiem) will not be able to make it to the Open Stage of Nijisanji Fes 2022 set for the weekend of October 1 and 2 at Makuhari Messe Exhibition Hall 1 to 5.
 
 The agency explained that unforeseen circumstances led to the said cancellation. The talents were set to join their Nijisanji EN colleagues at the Open Stage event, which will be broadcast on Nijisanji's YouTube channel.
 
@@ -589,21 +604,6 @@ It is known that Hanari is really into Akai Haato and Sakura Miko, and when we a
 ***
 
 _Thank you very much to Hanari as well as Toto for sharing their time with us. Special thanks to the organizers of Otaku Expo Tanabata Festival, the Ozine Team, for making this interview for NewsDrop possible._]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VTubers Shoto, Bao Officially Join United Talent Agency Roster]]></title>
-            <link>https://kawaentertainment.com/news/v-tubers-shoto-bao-officially-join-united-talent-agency-roster/</link>
-            <guid>https://kawaentertainment.com/news/v-tubers-shoto-bao-officially-join-united-talent-agency-roster/</guid>
-            <pubDate>Sat, 20 Aug 2022 13:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[Independent VTubers Shoto and Bao are officially joining the talent roster of United Talent Agency (UTA), a global talent agency based in Beverly Hills, California.
-
-According to a report from [_Dot Esports_](https://dotesports.com/streaming/news/sykkuno-kkatamina-more-join-uta-talent-agency-expands-streaming-vtuber), Shxtou and Bao join other popular streamers such as Sykkuno, Kkatamina, Buddha, and _Stranger Things_ actress Grace Van Dien. Unlike existing streamer organizations or agencies like 100Thieves and OfflineTV, UTA operates as a way to aid signed talents to find sponsorships and other promotional opportunities.
-
-While Shoto hasn’t announced his signing with UTA, Bao had already posted about it on Twitter last June, stating that she is now represented by UTA.
-
-https://twitter.com/baovtuber/status/1542228850083409922
-
-Shoto debuted on October 2, 2021, and is part of an independent VTuber group called Hanamori. Meanwhile, Bao, who previously produced music under the name Hikaru Station, debuted on October 30, 2020, where she released her single “52-Hearts.”]]></content:encoded>
         </item>
     </channel>
 </rss>
