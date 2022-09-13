@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Thu, 08 Sep 2022 01:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 03:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -93,15 +93,6 @@ _picnic members can message for different color edits I won’t be adding design
 https://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Drawing Hand Asset]]></title>
-            <link>https://kawaentertainment.com/assets/drawing-hand-asset/</link>
-            <guid>https://kawaentertainment.com/assets/drawing-hand-asset/</guid>
-            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[If you want something simple to use as a drawing hand asset this asset has you covered!
-
-https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Twitch Item Flood]]></title>
             <link>https://kawaentertainment.com/assets/twitch-item-flood/</link>
             <guid>https://kawaentertainment.com/assets/twitch-item-flood/</guid>
@@ -186,6 +177,15 @@ You are allowed to stream this, use it as part of shared images (such as on Twit
 You are not allowed, however, to distribute the software itself or to mirror it at another download location. Please just send people a link to this page. It's free and I have no intention of taking it down, so it will stay available. (Also please don't use any of the screenshots I've shared here elsewhere without permission as they include my personal model.)
 
 I do highly encourage making and releasing your own Item Profiles, though. However, I request that you don't charge or accept money for them unless you made the art you're using for them yourself.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Drawing Hand Asset]]></title>
+            <link>https://kawaentertainment.com/assets/drawing-hand-asset/</link>
+            <guid>https://kawaentertainment.com/assets/drawing-hand-asset/</guid>
+            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[If you want something simple to use as a drawing hand asset this asset has you covered!
+
+https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[VTS Heartrate Plugin]]></title>
@@ -409,42 +409,6 @@ https://twitter.com/catlop0202/status/1536616541952692225
 _If there's any problem with the authorization, please contact me._]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VTube Studio]]></title>
-            <link>https://kawaentertainment.com/assets/v-tube-studio/</link>
-            <guid>https://kawaentertainment.com/assets/v-tube-studio/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
-
-#### Usage Example
-
-https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
-
-_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mascot Assets]]></title>
-            <link>https://kawaentertainment.com/assets/mascot-assets/</link>
-            <guid>https://kawaentertainment.com/assets/mascot-assets/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
-
-We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
-
-<video class="small" width="640" controls>
-    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-Example Usage by Kota Kotonya
-
-![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
-
-`button:/assets/mochi-assets.zip:Download Mochi Assets`
-`button:/assets/dango-assets.zip:Download Dango Assets`
-
-_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Klock]]></title>
             <link>https://kawaentertainment.com/assets/klock/</link>
             <guid>https://kawaentertainment.com/assets/klock/</guid>
@@ -476,6 +440,42 @@ https://twitter.com/Nami_Miyahara/status/1508031189344522243
 
 _Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mascot Assets]]></title>
+            <link>https://kawaentertainment.com/assets/mascot-assets/</link>
+            <guid>https://kawaentertainment.com/assets/mascot-assets/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
+
+We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
+
+<video class="small" width="640" controls>
+    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+Example Usage by Kota Kotonya
+
+![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
+
+`button:/assets/mochi-assets.zip:Download Mochi Assets`
+`button:/assets/dango-assets.zip:Download Dango Assets`
+
+_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[VTube Studio]]></title>
+            <link>https://kawaentertainment.com/assets/v-tube-studio/</link>
+            <guid>https://kawaentertainment.com/assets/v-tube-studio/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
+
+#### Usage Example
+
+https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
+
+_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Ultra Wiggly Cat Ears]]></title>
