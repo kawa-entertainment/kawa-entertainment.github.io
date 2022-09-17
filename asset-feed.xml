@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Wed, 14 Sep 2022 01:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 18:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -82,15 +82,6 @@ _VTuber used for Title-Picture:_ [_@maddiekuma_](https://www.twitch.tv/maddiekum
 https://twitter.com/Cazzar99/status/1442824488333111296?s=20&t=5hxF2RQn3x5lPgUqvVZ3TA]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Drawing Hand Asset]]></title>
-            <link>https://kawaentertainment.com/assets/drawing-hand-asset/</link>
-            <guid>https://kawaentertainment.com/assets/drawing-hand-asset/</guid>
-            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[If you want something simple to use as a drawing hand asset this asset has you covered!
-
-https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Controller Asset]]></title>
             <link>https://kawaentertainment.com/assets/controller-asset/</link>
             <guid>https://kawaentertainment.com/assets/controller-asset/</guid>
@@ -100,6 +91,15 @@ https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM
 _picnic members can message for different color edits I won’t be adding designs though sorry_
 
 https://twitter.com/Honey_Kub/status/1556401799304601600?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Drawing Hand Asset]]></title>
+            <link>https://kawaentertainment.com/assets/drawing-hand-asset/</link>
+            <guid>https://kawaentertainment.com/assets/drawing-hand-asset/</guid>
+            <pubDate>Wed, 10 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[If you want something simple to use as a drawing hand asset this asset has you covered!
+
+https://twitter.com/Honey_Kub/status/1547874919735627779?s=20&t=xiupgfL36eE378RM2ZifGA]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Twitch Item Flood]]></title>
@@ -379,19 +379,6 @@ _ViewLink is free to be used in any context (including commercial), but redistri
 _\*Vtube Studio must be purchased separately in order to use this application._]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[VTube Studio]]></title>
-            <link>https://kawaentertainment.com/assets/v-tube-studio/</link>
-            <guid>https://kawaentertainment.com/assets/v-tube-studio/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
-
-#### Usage Example
-
-https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
-
-_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Parrot Peachy]]></title>
             <link>https://kawaentertainment.com/assets/parrot-peachy/</link>
             <guid>https://kawaentertainment.com/assets/parrot-peachy/</guid>
@@ -420,6 +407,19 @@ https://twitter.com/catlop0202/status/1536616541952692225
 - Claim to be the author  
   
 _If there's any problem with the authorization, please contact me._]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[VTube Studio]]></title>
+            <link>https://kawaentertainment.com/assets/v-tube-studio/</link>
+            <guid>https://kawaentertainment.com/assets/v-tube-studio/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VTube Studio is the defacto app for Live2D vtubers. The app uses your smartphone or webcam to track your face and animate a [Live2D Cubism Model](https://www.live2d.com/en/). The model is shown directly on your phone or your PC by streaming the face-tracking data over your local network from your phone to your PC/Mac.
+
+#### Usage Example
+
+https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3GOh5w
+
+_Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Mascot Assets]]></title>
