@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Tue, 20 Sep 2022 22:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 00:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -537,28 +537,6 @@ Turn off lights on steering wheel: Left shift + 1
 _No redistributing! or reselling!_]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Concert Twitch Overlay]]></title>
-            <link>https://kawaentertainment.com/assets/concert-twitch-overlay/</link>
-            <guid>https://kawaentertainment.com/assets/concert-twitch-overlay/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[If you are failing to connect to twitch after filling everything out, look at this:
-
-On the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):
-
-* bits:read
-* chat:read
-* channel:read:subscriptions
-* channel:read:redemptions
-* user:read:follows
-**Having any of these settings unchecked will result in a Twitch Connection error**
-
-An overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.
-
-Any questions can be directed at me via twitter or put in the comments below.
-
-https://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[vTuber Kit]]></title>
             <link>https://kawaentertainment.com/assets/v-tuber-kit/</link>
             <guid>https://kawaentertainment.com/assets/v-tuber-kit/</guid>
@@ -585,6 +563,28 @@ Users can then stream with the character they've made! Since this is being built
 We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
 
 In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Concert Twitch Overlay]]></title>
+            <link>https://kawaentertainment.com/assets/concert-twitch-overlay/</link>
+            <guid>https://kawaentertainment.com/assets/concert-twitch-overlay/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[If you are failing to connect to twitch after filling everything out, look at this:
+
+On the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):
+
+* bits:read
+* chat:read
+* channel:read:subscriptions
+* channel:read:redemptions
+* user:read:follows
+**Having any of these settings unchecked will result in a Twitch Connection error**
+
+An overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.
+
+Any questions can be directed at me via twitter or put in the comments below.
+
+https://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ]]></content:encoded>
         </item>
     </channel>
 </rss>
