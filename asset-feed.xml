@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Wed, 12 Oct 2022 02:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 20:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -422,6 +422,29 @@ https://twitter.com/koziichu/status/1540392554775998465?s=20&t=gfcykm4tfkxSspBz3
 _Wanna see more examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video)._]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Mascot Assets]]></title>
+            <link>https://kawaentertainment.com/assets/mascot-assets/</link>
+            <guid>https://kawaentertainment.com/assets/mascot-assets/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
+
+We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
+
+<video class="small" width="640" controls>
+    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+Example Usage by Kota Kotonya
+
+![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
+
+`button:/assets/mochi-assets.zip:Download Mochi Assets`
+`button:/assets/dango-assets.zip:Download Dango Assets`
+
+_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Klock]]></title>
             <link>https://kawaentertainment.com/assets/klock/</link>
             <guid>https://kawaentertainment.com/assets/klock/</guid>
@@ -453,29 +476,6 @@ https://twitter.com/Nami_Miyahara/status/1508031189344522243
 
 _Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._
 ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Mascot Assets]]></title>
-            <link>https://kawaentertainment.com/assets/mascot-assets/</link>
-            <guid>https://kawaentertainment.com/assets/mascot-assets/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!
-
-We've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits "T.I.T.S") like shown below! We've even included some SFX (even if they're... just okay).
-
-<video class="small" width="640" controls>
-    <source src="https://kawaentertainment.com/videos/mascot-test.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
-Example Usage by Kota Kotonya
-
-![Kawa Mascots](/src/assets/content/images/kawa-mascots.png "Kawa Mascots")
-
-`button:/assets/mochi-assets.zip:Download Mochi Assets`
-`button:/assets/dango-assets.zip:Download Dango Assets`
-
-_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Steering Wheel and Hat Vtuber LIVE2D RIGGED assets]]></title>
