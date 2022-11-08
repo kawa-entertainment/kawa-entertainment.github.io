@@ -1,4 +1,6 @@
-if (process.isClient == null || process.isClient) {
+if (process != null && !process.IsClient)
+  console.log("compiling");
+else {
   window.onload = () => {
     let url = location.href;
 
@@ -70,7 +72,6 @@ if (process.isClient == null || process.isClient) {
       return;
     }
 
-    let hasLiveTalent = false;
     fetch(`https://api.kawaentertainment.com/youtube/talent`, { method: "GET" })
       .then(async (response) => {
         let json = await response.json();
@@ -138,7 +139,6 @@ if (process.isClient == null || process.isClient) {
             tag.appendChild(pfp);
             tag.appendChild(title);
             apiDiv.appendChild(tag);
-            hasLiveTalent = true;
           }
         });
       })
@@ -151,7 +151,6 @@ if (process.isClient == null || process.isClient) {
     fetch(`https://api.kawaentertainment.com/twitch/talent`, { method: "GET" })
       .then(async (response) => {
         let json = await response.json();
-        let hasLiveTalent = false;
 
         json.forEach((x) => {
           if (!x) return;
@@ -199,7 +198,6 @@ if (process.isClient == null || process.isClient) {
             tag.appendChild(pfp);
             tag.appendChild(title);
             apiDiv.appendChild(tag);
-            hasLiveTalent = true;
           }
         });
       })
