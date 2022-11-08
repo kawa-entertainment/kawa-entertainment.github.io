@@ -1,3 +1,5 @@
+let Params = getSyncScriptParams(document.currentScript);
+
 function getSyncScriptParams(scriptName) {
   return {
     scriptRef: scriptName,
@@ -5,35 +7,6 @@ function getSyncScriptParams(scriptName) {
     limit: Number(scriptName.getAttribute("data-limit") || 20),
   };
 }
-
-let Params = getSyncScriptParams(document.currentScript);
-
-window.onload = () => {
-  let url = location.href;
-
-  const init = () => {
-    let talentDIV = document.getElementById("live-talents");
-    if (talentDIV && !talentDIV.getAttribute("init")) load(talentDIV);
-  };
-
-  setInterval(() => {
-    init();
-  }, 1000 * 2);
-  init();
-
-  document.body.addEventListener(
-    "click",
-    () => {
-      requestAnimationFrame(() => {
-        if (url !== location.href) {
-          init();
-          url = location.href;
-        }
-      });
-    },
-    true
-  );
-};
 
 function GetGameName(liveData) {
   let title = "";
@@ -69,6 +42,34 @@ function GetGameName(liveData) {
     .replace("[", "")
     .replace("【", "");
 }
+
+// AFTER LOAD
+window.onload = () => {
+  let url = location.href;
+
+  const init = () => {
+    let talentDIV = document.getElementById("live-talents");
+    if (talentDIV && !talentDIV.getAttribute("init")) load(talentDIV);
+  };
+
+  setInterval(() => {
+    init();
+  }, 1000 * 5);
+  init();
+
+  document.body.addEventListener(
+    "click",
+    () => {
+      requestAnimationFrame(() => {
+        if (url !== location.href) {
+          init();
+          url = location.href;
+        }
+      });
+    },
+    true
+  );
+};
 
 function load(liveTalentsDiv) {
   Params = getSyncScriptParams(Params.scriptRef);
