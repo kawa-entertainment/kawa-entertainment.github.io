@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap");
+
+#live-talents {
+  font-family: "Montserrat";
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  --rounded: 12px;
+}
+
+#live-talents .live-talent-button {
+  margin: 8px;
+  display: flex;
+  padding: 16px;
+  letter-spacing: 2px;
+  color: #f2f2f2;
+  transition: all 0.3s ease-in-out;
+  border: 2px solid #f2f2f2 !important;
+  width: 100%;
+  max-width: 295px;
+  border-radius: var(--rounded);
+  text-decoration: none;
+  position: relative;
+  overflow: hidden;
+}
+
+#live-talents .live-talent-button.loading {
+  height: 100px;
+  background-color: #323233;
+}
+
+#live-talents .live-talent-button .bg {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  bottom: -4px;
+  left: -4px;
+  background-size: cover;
+  background-position: 50%;
+  transition: all 0.3s ease-in-out;
+  filter: blur(4px) brightness(0.3);
+}
+
+#live-talents .live-talent-button .pfp {
+  min-width: 64px;
+  width: 64px;
+  height: 64px;
+  border-radius: var(--rounded);
+  overflow: hidden;
+  margin-right: 16px;
+  transition: all 0.3s ease-in-out;
+  z-index: 1;
+}
+
+#live-talents .live-talent-button .title {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 1;
+}
+
+#live-talents .live-talent-button .title .row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  white-space: nowrap;
+  flex-direction: row-reverse;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+#live-talents .live-talent-button .title .row .platform {
+  display: flex;
+  margin-right: 8px;
+  width: 22px;
+  max-width: 22px;
+  transform: translateY(-1px);
+}
+
+#live-talents .live-talent-button .title .row .platform svg {
+  width: 22px;
+  height: 22px;
+  fill: #f2f2f2;
+  transition: all 0.3s ease-in-out;
+}
+
+#live-talents .live-talent-button .title .game-title {
+  font-size: 16px;
+  height: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  width: 140px;
+  text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  height: 20px;
+  opacity: 1;
+  margin: 8px auto 0;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+#live-talents .live-talent-button:hover {
+  color: #111111;
+  background-color: white;
+}
+
+#live-talents .live-talent-button:hover .bg {
+  filter: blur(12px);
+  opacity: 0.4;
+}
+
+#live-talents .live-talent-button:hover .pfp {
+  transform: scale(1.1);
+}
+
+#live-talents .live-talent-button:hover .youtube svg {
+  fill: #111111 !important;
+  /* fill: #ff0000 !important; */
+}
+
+#live-talents .live-talent-button:hover .twitch svg {
+  fill: #111111 !important;
+  /* fill: #9146ff !important; */
+}
