@@ -1,13 +1,12 @@
-function getSyncScriptParams() {
-  let scriptName = document.currentScript;
-  console.log(scriptName);
+function getSyncScriptParams(scriptName) {
   return {
-    width: scriptName.getAttribute("data-width"),
-    height: scriptName.getAttribute("data-height"),
+    scriptRef: scriptName,
+    rounded: Boolean(scriptName.getAttribute("data-rounded") || true),
+    limit: Number(scriptName.getAttribute("data-limit") || 20),
   };
 }
 
-console.log(getSyncScriptParams());
+let Params = getSyncScriptParams(document.currentScript);
 
 window.onload = () => {
   let url = location.href;
@@ -72,7 +71,10 @@ function GetGameName(liveData) {
 }
 
 function load(liveTalentsDiv) {
+  Params = getSyncScriptParams(Params.scriptRef);
+  console.log(Params);
   let apiDiv = liveTalentsDiv;
+  let limitCounter = 0;
   apiDiv.setAttribute("init", true);
 
   if (!apiDiv) {
@@ -86,6 +88,7 @@ function load(liveTalentsDiv) {
 
       json.forEach((x) => {
         if (!x) return;
+        if (limitCounter >= Params.limit) return;
         let hasLive = Object.keys(x.live).length > 0;
         // is live currently
         if (hasLive && x.live.live) {
@@ -105,7 +108,9 @@ function load(liveTalentsDiv) {
           var textWrapper = document.createElement("div");
           var bg = document.createElement("div");
           textWrapper.className = "text";
-          tag.className = "live-talent-button";
+          tag.className = `live-talent-button ${
+            Params.rounded ? "round" : "square"
+          }`;
           tag.target = "_blank";
           tag.href = `https://www.youtube.com/watch?v=${videoID}`;
 
@@ -147,6 +152,7 @@ function load(liveTalentsDiv) {
           tag.appendChild(pfp);
           tag.appendChild(title);
           apiDiv.appendChild(tag);
+          limitCounter++;
         }
       });
     })
@@ -162,6 +168,7 @@ function load(liveTalentsDiv) {
 
       json.forEach((x) => {
         if (!x) return;
+        if (limitCounter >= Params.limit) return;
         let hasLive = Object.keys(x.data.live).length > 0;
         // is live currently
         if (hasLive && x.data.live.title) {
@@ -206,6 +213,7 @@ function load(liveTalentsDiv) {
           tag.appendChild(pfp);
           tag.appendChild(title);
           apiDiv.appendChild(tag);
+          limitCounter++;
         }
       });
     })
