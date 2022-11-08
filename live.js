@@ -1,7 +1,5 @@
 function getSyncScriptParams() {
-  let scripts = document.getElementsByTagName("script");
-  let lastScript = scripts[scripts.length - 1];
-  let scriptName = lastScript;
+  let scriptName = document.currentScript;
   return {
     width: scriptName.getAttribute("data-width"),
     height: scriptName.getAttribute("data-height"),
