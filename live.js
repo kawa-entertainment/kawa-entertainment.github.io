@@ -7,8 +7,9 @@ function getSyncScriptParams() {
   };
 }
 
+console.log(getSyncScriptParams());
+
 window.onload = () => {
-  console.log(getSyncScriptParams());
   let url = location.href;
 
   const init = () => {
