@@ -48,6 +48,7 @@
   background-position: 50%;
   transition: all 0.3s ease-in-out;
   filter: blur(4px) brightness(0.3);
+  display: block !important;
 }
 
 #live-talents .live-talent-button .pfp {
@@ -67,6 +68,8 @@
   justify-content: center;
   flex-direction: column;
   z-index: 1;
+  margin: 0;
+  padding: 0;
 }
 
 #live-talents .live-talent-button .title .row {

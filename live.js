@@ -178,7 +178,9 @@ function load(liveTalentsDiv) {
           var textWrapper = document.createElement("div");
           var bg = document.createElement("div");
           textWrapper.className = "text";
-          tag.className = "live-talent-button";
+          tag.className = `live-talent-button ${
+            Params.rounded ? "round" : "square"
+          }`;
           tag.target = "_blank";
           tag.href = `https://www.twitch.tv/${x.username}`;
 
