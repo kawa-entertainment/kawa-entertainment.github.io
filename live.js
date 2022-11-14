@@ -73,7 +73,6 @@ window.onload = () => {
 
 function load(liveTalentsDiv) {
   Params = getSyncScriptParams(Params.scriptRef);
-  console.log(Params);
   let apiDiv = liveTalentsDiv;
   let limitCounter = 0;
   apiDiv.setAttribute("init", true);
