@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Wed, 16 Nov 2022 18:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 03:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -533,6 +533,19 @@ Twitter: [twitter.com/k1ruse](https://twitter.com/k1ruse)
 Carrd: [k1ruse.carrd.co](https://k1ruse.carrd.co/)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[vTuber Kit]]></title>
+            <link>https://kawaentertainment.com/assets/v-tuber-kit/</link>
+            <guid>https://kawaentertainment.com/assets/v-tuber-kit/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.
+
+vTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.
+
+And of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.
+
+Users can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Steering Wheel and Hat Vtuber LIVE2D RIGGED assets]]></title>
             <link>https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/</link>
             <guid>https://kawaentertainment.com/assets/steering-wheel-and-hat-vtuber-liv-e2-d-rigged-assets/</guid>
@@ -550,34 +563,6 @@ Change letter on hat: Left shift + Letter
 Turn off lights on steering wheel: Left shift + 1
 
 _No redistributing! or reselling!_]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[vTuber Kit]]></title>
-            <link>https://kawaentertainment.com/assets/v-tuber-kit/</link>
-            <guid>https://kawaentertainment.com/assets/v-tuber-kit/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[VTubing is fun and awesome and cool! But for people looking to get into it, there can be steep prices. If you're not up for using a pre-made model, vTubers just starting out will most likely look into commissioning a custom model and rig, running anywhere from hundreds to thousands of dollars. But! What if someone wants to dip their toes in the VTubing scene without spending money, while also showing off their own personalized design? Well, that's where VTuber Kit comes in.
-
-vTuber kit is an all-in-one solution. It comes with OpenSeeFace integrated, meaning you will be able to open the program and instantly have camera facial tracking as well as microphone input good to go.
-
-And of course, VTuber Kit's main draw point is model customization. VTuber Kit is stuffed full of various parts to mix and match to create your own personal flair, with much more planned to be added soon. Users can customize colors, mix-and-match clothes, pick out various hair parts, and slap on accessories to create something they like.
-
-Users can then stream with the character they've made! Since this is being built on top of my own personal vTubing solution, they will also get some benefits like Twitch integrations for redeeming headpats using the Twitch Channel points system if they choose to do so. Users will be free to take what they've made and use that design when crafting their own personal model/rig in the future if they so wish.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Yukarinette ConnectorNeo]]></title>
-            <link>https://kawaentertainment.com/assets/yukarinette-connector-neo/</link>
-            <guid>https://kawaentertainment.com/assets/yukarinette-connector-neo/</guid>
-            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
-
-#### Instructions
-
-[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
-
-We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
-
-In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Concert Twitch Overlay]]></title>
@@ -600,6 +585,21 @@ An overlay that allows Twitch streamers to have an interactive audience that per
 Any questions can be directed at me via twitter or put in the comments below.
 
 https://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Yukarinette ConnectorNeo]]></title>
+            <link>https://kawaentertainment.com/assets/yukarinette-connector-neo/</link>
+            <guid>https://kawaentertainment.com/assets/yukarinette-connector-neo/</guid>
+            <pubDate>Sat, 06 Aug 2022 05:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.
+
+#### Instructions
+
+[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)
+
+We have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.
+
+In addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).]]></content:encoded>
         </item>
     </channel>
 </rss>
