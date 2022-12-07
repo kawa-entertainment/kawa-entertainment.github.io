@@ -104,17 +104,17 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/klock/",
-            "content_html": "\r\nSo you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.\r\n\r\n`button:/klock-editor:Open Klock Editor`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to set up your very own Klock in OBS!\r\n\r\n- Open OBS\r\n- Add a new browser source\r\n- Make sure local file is checked\r\n- Hit browse and locate the klock.html file you downloaded\r\n- Configure the width / height / etc as you please\r\n- Hit okay\r\n- ???\r\n- Profit\r\n\r\n#### Example users\r\n\r\nhttps://twitter.com/kawa_entertain/status/1529146483634802692\r\n\r\nhttps://twitter.com/MofutariMegumi/status/1508493647402389506\r\n\r\nhttps://twitter.com/Nami_Miyahara/status/1508031189344522243\r\n\r\n_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
-            "url": "https://kawaentertainment.com/assets/klock/",
-            "title": "Klock",
-            "date_modified": "2022-08-06T05:00:00.000Z"
-        },
-        {
             "id": "https://kawaentertainment.com/assets/mascot-assets/",
             "content_html": "Thank you for the outpouring of love for our new mascots; the adorable crab Dango and precious fish Mochi! We are releasing a free asset pack to celebrate so you, too, can swim with our aquatic friends!\r\n\r\nWe've included easy to use .zip files of each mascot. You can import them into [Twitch Integrated Throwing System](https://remasuri3.itch.io/tits \"T.I.T.S\") like shown below! We've even included some SFX (even if they're... just okay).\r\n\r\n<video class=\"small\" width=\"640\" controls>\r\n    <source src=\"https://kawaentertainment.com/videos/mascot-test.mp4\" type=\"video/mp4\">\r\n    Your browser does not support the video tag.\r\n</video>\r\n\r\nExample Usage by Kota Kotonya\r\n\r\n![Kawa Mascots](/src/assets/content/images/kawa-mascots.png \"Kawa Mascots\")\r\n\r\n`button:/assets/mochi-assets.zip:Download Mochi Assets`\r\n`button:/assets/dango-assets.zip:Download Dango Assets`\r\n\r\n_Both asset packs are free to be used in any context, but redistribution or resale are strictly prohibited._",
             "url": "https://kawaentertainment.com/assets/mascot-assets/",
             "title": "Mascot Assets",
+            "date_modified": "2022-08-06T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/klock/",
+            "content_html": "\r\nSo you want a clock in your already amazing streaming overlay? We got you covered! Simply create your favorite clock design using our online editor. Once you've perfected it simply download the klock.html file by pressing the SAVE KLOCK button. Then simply follow the instructions below for settings it up in OBS.\r\n\r\n`button:/klock-editor:Open Klock Editor`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to set up your very own Klock in OBS!\r\n\r\n- Open OBS\r\n- Add a new browser source\r\n- Make sure local file is checked\r\n- Hit browse and locate the klock.html file you downloaded\r\n- Configure the width / height / etc as you please\r\n- Hit okay\r\n- ???\r\n- Profit\r\n\r\n#### Example users\r\n\r\nhttps://twitter.com/kawa_entertain/status/1529146483634802692\r\n\r\nhttps://twitter.com/MofutariMegumi/status/1508493647402389506\r\n\r\nhttps://twitter.com/Nami_Miyahara/status/1508031189344522243\r\n\r\n_Klock is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
+            "url": "https://kawaentertainment.com/assets/klock/",
+            "title": "Klock",
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
@@ -139,17 +139,17 @@
             "date_modified": "2022-08-06T05:00:00.000Z"
         },
         {
-            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
-            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
-            "title": "Concert Twitch Overlay",
-            "date_modified": "2022-08-06T05:00:00.000Z"
-        },
-        {
             "id": "https://kawaentertainment.com/assets/yukarinette-connector-neo/",
             "content_html": "Yukarinet Connector Neo is a communication tool that can translate from voice to a multitude of languages all in real-time. The perfect tool to help bring your live streams to a wider audience.\r\n\r\n#### Instructions\r\n\r\n[**How to use it is explained here.**](https://translate.google.com/website?sl=ja&tl=en&hl=en&client=webapp&u=https://www.machanbazaar.com/2021/11/29/ync_neo_doc/)\r\n\r\nWe have made it as easy to use as possible, but there are a few steps involved in linking with smartphones, so please read the manual and give it a try.\r\n\r\nIn addition, if it does not work as expected even after reading the manual, you can submit a bug report to [this community](https://discord.com/invite/h4r5HnR).",
             "url": "https://kawaentertainment.com/assets/yukarinette-connector-neo/",
             "title": "Yukarinette ConnectorNeo",
+            "date_modified": "2022-08-06T05:00:00.000Z"
+        },
+        {
+            "id": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "content_html": "If you are failing to connect to twitch after filling everything out, look at this:\r\n\r\nOn the twitch token page, double check that the following permissions are checked Yes (it randomly unchecks some):\r\n\r\n* bits:read\r\n* chat:read\r\n* channel:read:subscriptions\r\n* channel:read:redemptions\r\n* user:read:follows\r\n**Having any of these settings unchecked will result in a Twitch Connection error**\r\n\r\nAn overlay that allows Twitch streamers to have an interactive audience that performs wotagei. Users can customize when and how animations are triggers, and they can replace the audience members, lightsticks, and bits burst with their own images.\r\n\r\nAny questions can be directed at me via twitter or put in the comments below.\r\n\r\nhttps://twitter.com/LuaVLucky/status/1420777605985234953?s=20&t=JuN5SnquaCKn3f4ftJmGYQ",
+            "url": "https://kawaentertainment.com/assets/concert-twitch-overlay/",
+            "title": "Concert Twitch Overlay",
             "date_modified": "2022-08-06T05:00:00.000Z"
         }
     ]
