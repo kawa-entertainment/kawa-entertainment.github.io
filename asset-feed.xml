@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Tue, 16 May 2023 17:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 18:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
