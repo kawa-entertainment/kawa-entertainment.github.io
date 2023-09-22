@@ -4,7 +4,7 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Fri, 22 Sep 2023 04:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
@@ -14,15 +14,18 @@
             <guid>https://kawaentertainment.com/assets/kawa-kursors/</guid>
             <pubDate>Sun, 02 Apr 2023 05:00:00 GMT</pubDate>
             <content:encoded><![CDATA[
-Rep your favorite Kawa talents with your very own customized mouse pointer!
-
-### Credits
-- **Senni Cursors:** [@artysaur](https://twitter.com/artysaur)
-- **Kozii Cursors:** [@ceselaaa](https://twitter.com/ceselaaa)
+<b>Rep your favorite Kawa talents with your very own customized mouse pointer!</b>
+<br>
+All for free thanks to the amazing artysaur and ceselaaa!
 
 `button:https://ko-fi.com/s/12547924a0:Download for Free`
 `button:https://discord.gg/PVF64McJmU:Join support discord`
-]]></content:encoded>
+
+<br>
+
+### Credits
+- **Senni Cursors:** [@artysaur](https://twitter.com/artysaur)
+- **Kozii Cursors:** [@ceselaaa](https://twitter.com/ceselaaa)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kawa Talent Wallpapers]]></title>
