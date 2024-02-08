@@ -4,44 +4,10 @@
         <title>Kawa Entertainment Asset Feed</title>
         <link>https://kawaentertainment.com/</link>
         <description>We are an "adoption" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.</description>
-        <lastBuildDate>Mon, 11 Dec 2023 04:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 02:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://kawaentertainment.com/asset-feed.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Kawa Kursors]]></title>
-            <link>https://kawaentertainment.com/assets/kawa-kursors/</link>
-            <guid>https://kawaentertainment.com/assets/kawa-kursors/</guid>
-            <pubDate>Sun, 02 Apr 2023 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[
-<b>Rep your favorite Kawa talents with your very own customized mouse pointer!</b>
-<br>
-All for free thanks to the amazing artysaur and ceselaaa!
-
-`button:https://ko-fi.com/s/12547924a0:Download for Free`
-`button:https://discord.gg/PVF64McJmU:Join support discord`
-
-<br>
-
-### Credits
-- **Senni Cursors:** [@artysaur](https://twitter.com/artysaur)
-- **Kozii Cursors:** [@ceselaaa](https://twitter.com/ceselaaa)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Kawa Talent Wallpapers]]></title>
-            <link>https://kawaentertainment.com/assets/kawa-talent-wallpapers/</link>
-            <guid>https://kawaentertainment.com/assets/kawa-talent-wallpapers/</guid>
-            <pubDate>Fri, 21 Oct 2022 05:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[As thanks for all the support we've gotten this year we have some special wallpapers prepared!
-Over 30 wallpapers to choose from featuring the 6 Kawa talents and a variety of background colors!
-
-![Kawa Wallpapers](/src/assets/content/images/kawa-wallpapers.gif "Kawa Wallpapers")
-
-`button:https://ko-fi.com/s/87d1ca79d0:Download All Wallpapers`
-<!-- `button:/assets/kawa-wallpapers.zip:Download All Wallpapers` -->
-
-_All wallpapers are free to be used in any context, but redistribution or resale is strictly prohibited._]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Schedule Studio]]></title>
             <link>https://kawaentertainment.com/assets/schedule-studio/</link>

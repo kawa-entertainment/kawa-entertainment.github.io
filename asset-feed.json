@@ -6,20 +6,6 @@
     "description": "We are an \"adoption\" style Vtuber Agency, focusing on Technology. Our mission is to develop our talents and the entire vtubing community.",
     "items": [
         {
-            "id": "https://kawaentertainment.com/assets/kawa-kursors/",
-            "content_html": "\r\n<b>Rep your favorite Kawa talents with your very own customized mouse pointer!</b>\r\n<br>\r\nAll for free thanks to the amazing artysaur and ceselaaa!\r\n\r\n`button:https://ko-fi.com/s/12547924a0:Download for Free`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n<br>\r\n\r\n### Credits\r\n- **Senni Cursors:** [@artysaur](https://twitter.com/artysaur)\r\n- **Kozii Cursors:** [@ceselaaa](https://twitter.com/ceselaaa)",
-            "url": "https://kawaentertainment.com/assets/kawa-kursors/",
-            "title": "Kawa Kursors",
-            "date_modified": "2023-04-02T05:00:00.000Z"
-        },
-        {
-            "id": "https://kawaentertainment.com/assets/kawa-talent-wallpapers/",
-            "content_html": "As thanks for all the support we've gotten this year we have some special wallpapers prepared!\r\nOver 30 wallpapers to choose from featuring the 6 Kawa talents and a variety of background colors!\r\n\r\n![Kawa Wallpapers](/src/assets/content/images/kawa-wallpapers.gif \"Kawa Wallpapers\")\r\n\r\n`button:https://ko-fi.com/s/87d1ca79d0:Download All Wallpapers`\r\n<!-- `button:/assets/kawa-wallpapers.zip:Download All Wallpapers` -->\r\n\r\n_All wallpapers are free to be used in any context, but redistribution or resale is strictly prohibited._",
-            "url": "https://kawaentertainment.com/assets/kawa-talent-wallpapers/",
-            "title": "Kawa Talent Wallpapers",
-            "date_modified": "2022-10-21T05:00:00.000Z"
-        },
-        {
             "id": "https://kawaentertainment.com/assets/schedule-studio/",
             "content_html": "\r\nA browser-based schedule creation tool with completely custom color combinations built in no Photoshop required! Creating a schedule can become a chore for content creators. Schedule Studio aims to streamline that process, making it easy for anyone to create a schedule when on the go.\r\n\r\n`button:/schedule-editor:Open Schedule Studio`\r\n`button:https://discord.gg/PVF64McJmU:Join support discord`\r\n\r\n#### Here's how to use our schedule creator!\r\n\r\n- Open Schedule Studio\r\n- Select your template and theme\r\n- Edit the colors\r\n- Edit the text (by clicking it)\r\n- Add your image (by clicking it)\r\n- Hit Save\r\n- ???\r\n- Profit\r\n\r\n#### Example Users\r\n\r\nhttps://twitter.com/funamusea/status/1533284269657042945?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\nhttps://twitter.com/StarryYozzy/status/1523647418805686272?s=20&t=PkuMlhYZcaC1sbAoPhMdcg\r\n\r\n_Schedule Studio is free to be used in any context (including commercial), but redistribution or resale is strictly prohibited._\r\n",
             "url": "https://kawaentertainment.com/assets/schedule-studio/",
